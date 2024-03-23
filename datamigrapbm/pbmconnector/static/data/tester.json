@@ -1,0 +1,33 @@
+{
+   "resourceType": "MedicationAdministration",
+   "identifier":  [
+       {
+           "system": "localHospitalName",
+           "value": "pat1cas3trans1"
+       }
+   ],
+   "status": "completed",
+   "subject": {
+       "reference": "Patient?identifier=localHospitalName|patient1"
+   },
+   "context": {
+       "reference": "Encounter?identifier=localHospitalName|encounter13"
+   },
+   "medicationCodeableConcept": {
+       "coding":  [
+           {
+               "system": "http://snomed.info/sct",
+               "code": "256395009",
+               "display": "Platelet product (product)"
+           }
+       ]
+   },
+   "dosage": {
+       "dose": {
+           "unit": "{count}",
+           "system": "http://unitsofmeasure.org",
+           "value": 1
+       }
+   },
+   "effectiveDateTime": "2019-06-01T12:00:00+01:00"
+}

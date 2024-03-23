@@ -1,0 +1,3025 @@
+  [ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"353544"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-353544"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "female",
+"birthDate": "2023-09-11"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"353899"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-353899"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "male",
+"birthDate": "1956-06-23"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"357822"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-357822"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "male",
+"birthDate": "2023-12-10"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"6302"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-6302"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "female",
+"birthDate": "1995-11-04"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"317464"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-317464"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "male",
+"birthDate": "1949-12-08"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"339042"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-339042"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "female",
+"birthDate": "1973-05-05"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"342988"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-342988"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "male",
+"birthDate": "1954-05-28"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"331052"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-331052"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "male",
+"birthDate": "2021-11-22"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"143236"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-143236"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "female",
+"birthDate": "1989-09-28"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"353875"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-353875"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "female",
+"birthDate": "2023-09-21"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"199485"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-199485"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "male",
+"birthDate": "1971-04-10"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"290894"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-290894"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "male",
+"birthDate": "1992-05-23"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"351422"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-351422"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "male",
+"birthDate": "1960-01-16"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"344771"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-344771"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "male",
+"birthDate": "1972-06-15"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"358022"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-358022"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "female",
+"birthDate": "1998-08-16"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"2711"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-2711"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "male",
+"birthDate": "1958-04-27"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"355745"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-355745"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "male",
+"birthDate": "2023-11-14"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"356701"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-356701"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "female",
+"birthDate": "1952-04-19"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"281881"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-281881"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "female",
+"birthDate": "1967-03-27"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"308664"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-308664"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "male",
+"birthDate": "1947-11-18"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"356007"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-356007"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "female",
+"birthDate": "1968-02-21"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"125710"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-125710"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "female",
+"birthDate": "1960-12-21"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"352241"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-352241"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "male",
+"birthDate": "2007-03-28"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"355493"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-355493"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "male",
+"birthDate": "1947-06-20"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"356805"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-356805"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "male",
+"birthDate": "2019-12-16"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"190692"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-190692"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "female",
+"birthDate": "1953-04-18"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"140464"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-140464"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "male",
+"birthDate": "2008-08-24"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"204233"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-204233"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "female",
+"birthDate": "1949-10-17"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"354175"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-354175"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "female",
+"birthDate": "1984-07-13"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"297301"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-297301"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "female",
+"birthDate": "1973-08-05"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"266311"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-266311"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "male",
+"birthDate": "1979-07-23"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"354707"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-354707"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "male",
+"birthDate": "1953-03-23"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"305705"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-305705"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "female",
+"birthDate": "1961-10-17"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"234592"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-234592"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "male",
+"birthDate": "1955-08-07"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"180664"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-180664"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "female",
+"birthDate": "1971-01-30"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"355381"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-355381"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "male",
+"birthDate": "1948-05-04"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"13818"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-13818"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "female",
+"birthDate": "1947-06-29"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"36839"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-36839"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "male",
+"birthDate": "1942-06-14"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"343203"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-343203"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "male",
+"birthDate": "1975-04-19"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"357161"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-357161"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "male",
+"birthDate": "1965-05-23"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"197703"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-197703"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "female",
+"birthDate": "1990-10-11"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"24205"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-24205"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "female",
+"birthDate": "1972-04-06"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"152712"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-152712"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "male",
+"birthDate": "1954-07-16"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"332848"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-332848"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "male",
+"birthDate": "2012-04-26"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"321572"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-321572"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "female",
+"birthDate": "1965-08-20"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"325984"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-325984"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "male",
+"birthDate": "2006-08-23"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"26708"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-26708"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "female",
+"birthDate": "1944-03-05"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"343007"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-343007"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "male",
+"birthDate": "2022-11-18"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"151192"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-151192"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "male",
+"birthDate": "1974-08-16"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"4415"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-4415"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "male",
+"birthDate": "1962-05-28"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"354908"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-354908"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "male",
+"birthDate": "2023-10-27"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"340626"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-340626"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "male",
+"birthDate": "2013-11-23"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"261734"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-261734"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "male",
+"birthDate": "1963-05-25"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"21308"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-21308"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "male",
+"birthDate": "1938-06-24"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"223111"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-223111"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "female",
+"birthDate": "2002-03-19"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"178970"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-178970"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "male",
+"birthDate": "1952-01-05"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"165958"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-165958"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "female",
+"birthDate": "1956-01-19"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"268912"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-268912"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "male",
+"birthDate": "1946-05-20"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"261050"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-261050"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "female",
+"birthDate": "1987-05-17"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"127790"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-127790"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "male",
+"birthDate": "1950-08-04"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"356443"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-356443"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "male",
+"birthDate": "2017-02-12"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"231120"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-231120"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "male",
+"birthDate": "1940-08-10"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"355262"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-355262"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "female",
+"birthDate": "2023-10-27"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"353812"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-353812"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "female",
+"birthDate": "2023-09-19"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"353692"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-353692"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "male",
+"birthDate": "2023-09-15"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"167791"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-167791"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "female",
+"birthDate": "1982-04-24"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"14757"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-14757"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "female",
+"birthDate": "1967-05-13"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"355586"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-355586"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "female",
+"birthDate": "1996-10-09"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"167408"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-167408"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "male",
+"birthDate": "2009-09-01"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"348227"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-348227"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "female",
+"birthDate": "1951-05-28"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"337641"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-337641"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "male",
+"birthDate": "2002-06-24"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"229046"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-229046"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "male",
+"birthDate": "1959-03-23"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"12869"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-12869"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "female",
+"birthDate": "1940-04-29"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"128203"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-128203"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "male",
+"birthDate": "1934-02-15"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"23299"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-23299"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "female",
+"birthDate": "1929-05-18"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"356384"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-356384"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "male",
+"birthDate": "2023-11-24"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"10469"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-10469"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "male",
+"birthDate": "1939-05-27"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"348637"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-348637"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "male",
+"birthDate": "1952-09-18"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"164182"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-164182"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "female",
+"birthDate": "1938-02-10"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"278906"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-278906"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "female",
+"birthDate": "1966-08-09"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"12140"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-12140"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "female",
+"birthDate": "1958-03-24"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"28086"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-28086"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "male",
+"birthDate": "1946-01-19"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"123793"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-123793"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "female",
+"birthDate": "1959-11-17"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"190743"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-190743"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "female",
+"birthDate": "1963-04-17"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"354918"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-354918"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "male",
+"birthDate": "1971-03-05"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"261620"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-261620"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "male",
+"birthDate": "1948-11-01"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"347222"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-347222"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "male",
+"birthDate": "2023-02-01"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"354438"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-354438"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "female",
+"birthDate": "1977-07-16"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"313053"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-313053"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "female",
+"birthDate": "2002-02-13"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"77400"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-77400"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "male",
+"birthDate": "1937-07-24"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"356404"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-356404"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "male",
+"birthDate": "1977-10-30"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"355402"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-355402"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "male",
+"birthDate": "1949-03-26"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"128039"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-128039"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "male",
+"birthDate": "1942-01-25"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"355985"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-355985"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "male",
+"birthDate": "2023-11-17"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"1265"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-1265"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "female",
+"birthDate": "1943-12-30"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"176592"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-176592"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "male",
+"birthDate": "1948-09-04"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"137521"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-137521"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "female",
+"birthDate": "1986-11-17"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"343713"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-343713"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "male",
+"birthDate": "2020-06-09"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"248351"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-248351"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "male",
+"birthDate": "1967-11-14"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"137150"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-137150"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "female",
+"birthDate": "1950-10-17"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"6240"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-6240"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "female",
+"birthDate": "1941-11-04"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"183257"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-183257"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "male",
+"birthDate": "1953-11-14"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"338533"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-338533"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "female",
+"birthDate": "1958-11-16"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"355921"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-355921"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "male",
+"birthDate": "1952-06-14"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"341949"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-341949"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "female",
+"birthDate": "1961-10-18"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"355025"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-355025"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "male",
+"birthDate": "2022-01-03"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"353873"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-353873"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "female",
+"birthDate": "2023-09-21"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"28801"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-28801"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "female",
+"birthDate": "1937-10-13"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"156273"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-156273"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "female",
+"birthDate": "1953-02-24"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"356166"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-356166"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "female",
+"birthDate": "2023-11-21"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"317622"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-317622"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "male",
+"birthDate": "1942-05-26"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"129476"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-129476"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "male",
+"birthDate": "1967-04-29"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"357150"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-357150"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "female",
+"birthDate": "1977-04-12"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"357083"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-357083"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "female",
+"birthDate": "1998-06-04"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"175581"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-175581"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "male",
+"birthDate": "1961-03-20"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"177463"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-177463"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "male",
+"birthDate": "1979-01-04"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"321822"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-321822"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "male",
+"birthDate": "1941-05-23"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"167125"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-167125"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "female",
+"birthDate": "2012-02-09"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"355084"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-355084"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "female",
+"birthDate": "2019-03-19"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"335618"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-335618"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "male",
+"birthDate": "1974-06-21"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"46073"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-46073"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "female",
+"birthDate": "1956-10-03"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"157687"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-157687"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "male",
+"birthDate": "2007-06-27"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"279748"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-279748"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "female",
+"birthDate": "1990-02-08"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"350650"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-350650"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "male",
+"birthDate": "2000-02-09"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"353874"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-353874"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "male",
+"birthDate": "2023-09-21"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"328301"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-328301"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "female",
+"birthDate": "2020-12-07"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"151968"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-151968"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "female",
+"birthDate": "1944-11-07"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"320820"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-320820"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "female",
+"birthDate": "2009-10-10"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"225950"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-225950"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "female",
+"birthDate": "1992-02-14"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"144734"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-144734"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "male",
+"birthDate": "1970-11-23"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"350683"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-350683"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "male",
+"birthDate": "1989-02-02"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"251501"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-251501"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "male",
+"birthDate": "1991-09-12"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"355601"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-355601"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "female",
+"birthDate": "1971-08-24"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"11593"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-11593"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "male",
+"birthDate": "1930-03-19"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"178881"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-178881"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "female",
+"birthDate": "1971-02-18"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"355019"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-355019"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "male",
+"birthDate": "2023-11-01"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"255264"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-255264"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "female",
+"birthDate": "1961-05-02"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"13933"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-13933"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "female",
+"birthDate": "1947-07-07"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"5872"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-5872"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "female",
+"birthDate": "1960-06-13"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"355021"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-355021"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "male",
+"birthDate": "2023-11-01"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"13972"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-13972"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "male",
+"birthDate": "1952-01-28"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"354318"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-354318"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "male",
+"birthDate": "1964-10-06"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"334086"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-334086"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "male",
+"birthDate": "2020-05-18"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"354305"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-354305"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "male",
+"birthDate": "2023-10-06"
+} 
+]
+ 

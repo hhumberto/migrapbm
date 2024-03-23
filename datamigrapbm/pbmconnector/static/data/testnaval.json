@@ -1,0 +1,42 @@
+
+  [{
+      "resourceType": "Patient",
+      "identifier":  [
+          {
+              "system": "CEMENAV",
+              "value": "3535441"
+          }
+      ],
+      "name":  [
+          {
+              "use": "anonymous",
+              "given":  [
+                  "Paciente-353544"
+              ],
+              "family": "  "
+          }
+      ],
+      "gender": "female",
+      "birthDate": "2023-09-11"
+  },
+  {
+      "resourceType": "Patient",
+      "identifier":  [
+          {
+              "system": "CEMENAV",
+              "value": "353899"
+          }
+      ],
+      "name":  [
+          {
+              "use": "anonymous",
+              "given":  [
+                  "Paciente-353899"
+              ],
+              "family": "  "
+          }
+      ],
+      "gender": "male",
+      "birthDate": "1956-06-23"
+  }
+  ]

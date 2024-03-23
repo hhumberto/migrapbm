@@ -1,0 +1,3772 @@
+[{
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"99593diag1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|11593"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "K590",
+"display": "CONSTIPACION"
+        }
+      ]  
+   },
+"onsetDateTime":"2017-03-06"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"11593diag2"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|11593"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "K590",
+"display": "CONSTIPACION"
+        }
+      ]  
+   },
+"onsetDateTime":"2018-03-12"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"11593diag3"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|11593"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "K590",
+"display": "CONSTIPACION"
+        }
+      ]  
+   },
+"onsetDateTime":"2016-10-05"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"11593diag4"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|11593"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "R571",
+"display": "CHOQUE HIPOVOLEMICO"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-12-27"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"11593diag5"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|11593"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "K021",
+"display": "CARIES DE LA DENTINA"
+        }
+      ]  
+   },
+"onsetDateTime":"2015-10-06"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"11593diag6"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|11593"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "K590",
+"display": "CONSTIPACION"
+        }
+      ]  
+   },
+"onsetDateTime":"2016-08-08"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"12140diag1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|12140"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "M624",
+"display": "CONTRACTURA MUSCULAR"
+        }
+      ]  
+   },
+"onsetDateTime":"2010-09-22"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"123793diag1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|123793"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "E106",
+"display": "DIABETES MELLITUS INSULINODEPENDIENTE, CON OTRAS COMPLICACIONES ESPECIFICADAS"
+        }
+      ]  
+   },
+"onsetDateTime":"2010-08-14"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"123793diag2"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|123793"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "E119",
+"display": "DIABETES MELLITUS NO INSULINODEPENDIENTE, SIN MENCION DE COMPLICACION"
+        }
+      ]  
+   },
+"onsetDateTime":"2013-06-14"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"123793diag3"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|123793"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "I10",
+"display": "HIPERTENSION ESENCIAL (PRIMARIA)"
+        }
+      ]  
+   },
+"onsetDateTime":"2013-06-14"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"125710diag1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|125710"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "E631",
+"display": "DESEQUILIBRIO DE LOS CONSTITUYENTES EN LA DIETA"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-10-13"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"127790diag1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|127790"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "N311",
+"display": "VEJIGA NEUROPATICA REFLEJA, NO CLASIFICADA EN OTRA PARTE"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-03-01"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"127790diag2"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|127790"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "J159",
+"display": "NEUMONIA BACTERIANA, NO ESPECIFICADA"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-12-08"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"127790diag3"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|127790"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "N310",
+"display": "VEJIGA NEUROPATICA NO INHIBIDA, NO CLASIFICADA EN OTRA PARTE"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-09-01"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"127790diag4"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|127790"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "G934",
+"display": "ENCEFALOPATIA NO ESPECIFICADA"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-12-01"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"127790diag5"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|127790"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "N310",
+"display": "VEJIGA NEUROPATICA NO INHIBIDA, NO CLASIFICADA EN OTRA PARTE"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-03-01"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"128039diag1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|128039"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "M544",
+"display": "LUMBAGO CON CIATICA"
+        }
+      ]  
+   },
+"onsetDateTime":"2014-08-22"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"128039diag2"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|128039"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "M544",
+"display": "LUMBAGO CON CIATICA"
+        }
+      ]  
+   },
+"onsetDateTime":"2014-07-22"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"128039diag3"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|128039"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "S517",
+"display": "HERIDAS MULTIPLES DEL ANTEBRAZO"
+        }
+      ]  
+   },
+"onsetDateTime":"2020-09-22"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"128203diag1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|128203"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "N418",
+"display": "OTRAS ENFERMEDADES INFLAMATORIAS DE LA PROSTATA"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-11-22"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"12869diag1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|12869"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "E117",
+"display": "DIABETES MELLITUS NO INSULINODEPENDIENTE, CON COMPLICACIONES MULTIPLES"
+        }
+      ]  
+   },
+"onsetDateTime":"2017-07-07"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"12869diag2"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|12869"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "F412",
+"display": "TRASTORNO MIXTO DE ANSIEDAD Y DEPRESION"
+        }
+      ]  
+   },
+"onsetDateTime":"2012-05-29"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"12869diag3"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|12869"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "M150",
+"display": "(OSTEO)ARTROSIS PRIMARIA GENERALIZADA"
+        }
+      ]  
+   },
+"onsetDateTime":"2013-10-23"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"12869diag4"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|12869"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "M150",
+"display": "(OSTEO)ARTROSIS PRIMARIA GENERALIZADA"
+        }
+      ]  
+   },
+"onsetDateTime":"2012-03-06"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"12869diag5"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|12869"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "I10",
+"display": "HIPERTENSION ESENCIAL (PRIMARIA)"
+        }
+      ]  
+   },
+"onsetDateTime":"2013-12-19"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"12869diag6"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|12869"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "I10",
+"display": "HIPERTENSION ESENCIAL (PRIMARIA)"
+        }
+      ]  
+   },
+"onsetDateTime":"2013-10-03"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"13818diag1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|13818"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "K081",
+"display": "PERDIDA DE DIENTES DEBIDA A ACCIDENTE, EXTRACCION O ENFERMEDAD PERIODONTAL LOCAL"
+        }
+      ]  
+   },
+"onsetDateTime":"2016-12-15"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"13933diag1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|13933"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "K590",
+"display": "CONSTIPACION"
+        }
+      ]  
+   },
+"onsetDateTime":"2016-09-07"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"13933diag2"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|13933"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "J029",
+"display": "FARINGITIS AGUDA, NO ESPECIFICADA"
+        }
+      ]  
+   },
+"onsetDateTime":"2010-04-14"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"13972diag1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|13972"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "T455",
+"display": "ANTICOAGULANTES"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-01-31"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"13972diag2"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|13972"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "T455",
+"display": "ANTICOAGULANTES"
+        }
+      ]  
+   },
+"onsetDateTime":"2022-11-23"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"13972diag3"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|13972"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "T455",
+"display": "ANTICOAGULANTES"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-01-24"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"13972diag4"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|13972"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "T455",
+"display": "ANTICOAGULANTES"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-07-25"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"13972diag5"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|13972"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "Z911",
+"display": "HISTORIA PERSONAL DE INCUMPLIMIENTO DEL REGIMEN O TRATAMIENTO MEDICO"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-07-13"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"13972diag6"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|13972"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "T455",
+"display": "ANTICOAGULANTES"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-09-26"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"140464diag1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|140464"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "J00",
+"display": "RINOFARINGITIS AGUDA [RESFRIADO COMUN]"
+        }
+      ]  
+   },
+"onsetDateTime":"2011-08-24"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"140464diag2"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|140464"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "C621",
+"display": "TUMOR MALIGNO DEL TESTICULO DESCENDIDO"
+        }
+      ]  
+   },
+"onsetDateTime":"2014-11-08"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"140464diag3"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|140464"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "Z713",
+"display": "CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-10-20"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"144734diag1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|144734"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "C829",
+"display": "LINFOMA NO HODGKIN FOLICULAR, SIN OTRA ESPECIFICACION"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-10-23"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"144734diag2"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|144734"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "C829",
+"display": "LINFOMA NO HODGKIN FOLICULAR, SIN OTRA ESPECIFICACION"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-10-31"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"144734diag3"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|144734"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "C829",
+"display": "LINFOMA NO HODGKIN FOLICULAR, SIN OTRA ESPECIFICACION"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-08-07"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"144734diag4"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|144734"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "Z542",
+"display": "CONVALECENCIA CONSECUTIVA A QUIMIOTERAPIA"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-06-07"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"144734diag5"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|144734"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "C829",
+"display": "LINFOMA NO HODGKIN FOLICULAR, SIN OTRA ESPECIFICACION"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-06-07"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"14757diag1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|14757"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "K297",
+"display": "GASTRITIS, NO ESPECIFICADA"
+        }
+      ]  
+   },
+"onsetDateTime":"2010-02-04"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"14757diag2"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|14757"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "E107",
+"display": "DIABETES MELLITUS INSULINODEPENDIENTE, CON COMPLICACIONES MULTIPLES"
+        }
+      ]  
+   },
+"onsetDateTime":"2010-01-31"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"14757diag3"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|14757"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "N394",
+"display": "OTRAS INCONTINENCIAS URINARIAS ESPECIFICADAS"
+        }
+      ]  
+   },
+"onsetDateTime":"2013-08-24"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"14757diag4"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|14757"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "N390",
+"display": "INFECCION DE VIAS URINARIAS, SITIO NO ESPECIFICADO"
+        }
+      ]  
+   },
+"onsetDateTime":"2009-12-28"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"151192diag1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|151192"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "C900",
+"display": "MIELOMA MULTIPLE"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-08-07"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"151192diag2"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|151192"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "C900",
+"display": "MIELOMA MULTIPLE"
+        }
+      ]  
+   },
+"onsetDateTime":"2024-01-04"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"151192diag3"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|151192"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "E631",
+"display": "DESEQUILIBRIO DE LOS CONSTITUYENTES EN LA DIETA"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-02-14"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"151192diag4"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|151192"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "E631",
+"display": "DESEQUILIBRIO DE LOS CONSTITUYENTES EN LA DIETA"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-03-13"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"152712diag1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|152712"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "K219",
+"display": "ENFERMEDAD DEL REFLUJO GASTROESOFAGICO SIN ESOFAGITIS"
+        }
+      ]  
+   },
+"onsetDateTime":"2017-07-24"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"152712diag2"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|152712"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "K297",
+"display": "GASTRITIS, NO ESPECIFICADA"
+        }
+      ]  
+   },
+"onsetDateTime":"2017-09-06"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"156273diag1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|156273"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "K589",
+"display": "SINDROME DEL COLON IRRITABLE SIN DIARREA"
+        }
+      ]  
+   },
+"onsetDateTime":"2018-03-16"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"156273diag2"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|156273"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "Z713",
+"display": "CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA"
+        }
+      ]  
+   },
+"onsetDateTime":"2022-12-21"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"156273diag3"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|156273"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "K021",
+"display": "CARIES DE LA DENTINA"
+        }
+      ]  
+   },
+"onsetDateTime":"2018-03-24"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"156273diag4"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|156273"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "S934",
+"display": "ESGUINCES Y TORCEDURAS DEL TOBILLO"
+        }
+      ]  
+   },
+"onsetDateTime":"2011-08-26"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"156273diag5"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|156273"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "N180",
+"display": "INSUFICIENCIA RENAL TERMINAL"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-01-30"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"164182diag1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|164182"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "I10",
+"display": "HIPERTENSION ESENCIAL (PRIMARIA)"
+        }
+      ]  
+   },
+"onsetDateTime":"2018-01-12"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"164182diag2"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|164182"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "E660",
+"display": "OBESIDAD DEBIDA A EXCESO DE CALORIAS"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-06-17"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"167408diag1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|167408"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "D649",
+"display": "ANEMIA DE TIPO NO ESPECIFICADO"
+        }
+      ]  
+   },
+"onsetDateTime":"2012-09-03"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"167791diag1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|167791"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "E631",
+"display": "DESEQUILIBRIO DE LOS CONSTITUYENTES EN LA DIETA"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-12-01"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"176592diag1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|176592"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "D410",
+"display": "TUMOR DE COMPORTAMIENTO INCIERTO O DESCONOCIDO DEL RI�ON"
+        }
+      ]  
+   },
+"onsetDateTime":"2014-07-04"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"176592diag2"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|176592"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "C61",
+"display": "TUMOR MALIGNO DE LA PROSTATA"
+        }
+      ]  
+   },
+"onsetDateTime":"2014-07-04"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"190692diag1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|190692"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "K021",
+"display": "CARIES DE LA DENTINA"
+        }
+      ]  
+   },
+"onsetDateTime":"2016-11-03"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"190692diag2"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|190692"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "K022",
+"display": "CARIES DEL CEMENTO"
+        }
+      ]  
+   },
+"onsetDateTime":"2016-11-03"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"190692diag3"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|190692"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "I255",
+"display": "CARDIOMIOPATIA ISQUEMICA"
+        }
+      ]  
+   },
+"onsetDateTime":"2017-12-07"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"190692diag4"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|190692"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "I255",
+"display": "CARDIOMIOPATIA ISQUEMICA"
+        }
+      ]  
+   },
+"onsetDateTime":"2017-11-15"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"190692diag5"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|190692"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "I255",
+"display": "CARDIOMIOPATIA ISQUEMICA"
+        }
+      ]  
+   },
+"onsetDateTime":"2018-07-20"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"197703diag1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|197703"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "T455",
+"display": "ANTICOAGULANTES"
+        }
+      ]  
+   },
+"onsetDateTime":"2022-12-06"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"197703diag2"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|197703"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "T455",
+"display": "ANTICOAGULANTES"
+        }
+      ]  
+   },
+"onsetDateTime":"2022-12-19"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"197703diag3"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|197703"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "T455",
+"display": "ANTICOAGULANTES"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-02-28"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"197703diag4"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|197703"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "T455",
+"display": "ANTICOAGULANTES"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-07-20"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"197703diag5"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|197703"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "T455",
+"display": "ANTICOAGULANTES"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-03-30"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"197703diag6"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|197703"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "T455",
+"display": "ANTICOAGULANTES"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-09-14"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"21308diag1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|21308"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "M150",
+"display": "(OSTEO)ARTROSIS PRIMARIA GENERALIZADA"
+        }
+      ]  
+   },
+"onsetDateTime":"2015-08-13"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"21308diag2"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|21308"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "S300",
+"display": "CONTUSION DE LA REGION LUMBOSACRA Y DE LA PELVIS"
+        }
+      ]  
+   },
+"onsetDateTime":"2015-07-04"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"225950diag1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|225950"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "O121",
+"display": "PROTEINURIA GESTACIONAL"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-11-07"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"229046diag1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|229046"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "I210",
+"display": "INFARTO TRANSMURAL AGUDO DEL MIOCARDIO DE LA PARED ANTERIOR"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-10-11"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"23299diag1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|23299"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "S003",
+"display": "TRAUMATISMO SUPERFICIAL DE LA NARIZ"
+        }
+      ]  
+   },
+"onsetDateTime":"2011-07-22"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"23299diag2"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|23299"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "Z760",
+"display": "CONSULTA PARA REPETICION DE RECETA"
+        }
+      ]  
+   },
+"onsetDateTime":"2012-01-30"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"24205diag1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|24205"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "N180",
+"display": "INSUFICIENCIA RENAL TERMINAL"
+        }
+      ]  
+   },
+"onsetDateTime":"2017-07-12"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"255264diag1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|255264"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "Q253",
+"display": "ESTENOSIS DE LA AORTA"
+        }
+      ]  
+   },
+"onsetDateTime":"2018-02-19"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"255264diag2"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|255264"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "I528*",
+"display": "OTROS TRASTORNOS CARDIACOS EN OTRAS ENFERMEDADES CLASIFICADAS EN OTRA PARTE"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-06-18"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"255264diag3"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|255264"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "N19",
+"display": "INSUFICIENCIA RENAL NO ESPECIFICADA"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-06-13"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"261050diag1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|261050"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "Z504",
+"display": "PSICOTERAPIA, NO CLASIFICADA EN OTRA PARTE"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-12-15"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"261050diag2"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|261050"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "E43",
+"display": "DESNUTRICION PROTEICOCALORICA SEVERA, NO ESPECIFICADA"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-12-15"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"261050diag3"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|261050"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "C838",
+"display": "OTROS TIPOS ESPECIFICADOS DE LINFOMA NO HODGKIN DIFUSO"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-08-04"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"261050diag4"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|261050"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "Z713",
+"display": "CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA"
+        }
+      ]  
+   },
+"onsetDateTime":"2022-07-20"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"261734diag1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|261734"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "Z501",
+"display": "OTRAS TERAPIAS FISICAS"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-09-22"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"261734diag2"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|261734"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "I219",
+"display": "INFARTO AGUDO DEL MIOCARDIO, SIN OTRA ESPECIFICACION"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-09-22"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"26708diag1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|26708"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "K081",
+"display": "PERDIDA DE DIENTES DEBIDA A ACCIDENTE, EXTRACCION O ENFERMEDAD PERIODONTAL LOCAL"
+        }
+      ]  
+   },
+"onsetDateTime":"2013-11-27"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"26708diag2"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|26708"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "E631",
+"display": "DESEQUILIBRIO DE LOS CONSTITUYENTES EN LA DIETA"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-11-18"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"26708diag3"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|26708"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "K081",
+"display": "PERDIDA DE DIENTES DEBIDA A ACCIDENTE, EXTRACCION O ENFERMEDAD PERIODONTAL LOCAL"
+        }
+      ]  
+   },
+"onsetDateTime":"2013-10-14"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"26708diag4"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|26708"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "K040",
+"display": "PULPITIS"
+        }
+      ]  
+   },
+"onsetDateTime":"2013-11-27"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"26708diag5"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|26708"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "J410",
+"display": "BRONQUITIS CRONICA SIMPLE"
+        }
+      ]  
+   },
+"onsetDateTime":"2010-08-16"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"28801diag1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|28801"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "K028",
+"display": "OTRAS CARIES DENTALES"
+        }
+      ]  
+   },
+"onsetDateTime":"2012-08-07"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"308664diag1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|308664"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "N188",
+"display": "OTRAS INSUFICIENCIAS RENALES CRONICAS"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-08-01"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"308664diag2"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|308664"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "Z713",
+"display": "CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-11-22"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"313053diag1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|313053"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "D729",
+"display": "TRASTORNO DE LOS LEUCOCITOS, NO ESPECIFICADO"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-10-13"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"317464diag1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|317464"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "E631",
+"display": "DESEQUILIBRIO DE LOS CONSTITUYENTES EN LA DIETA"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-11-07"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"317464diag2"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|317464"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "Z713",
+"display": "CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-11-07"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"317622diag1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|317622"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "C911",
+"display": "LEUCEMIA LINFOCITICA CRONICA"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-07-27"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"317622diag2"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|317622"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "C911",
+"display": "LEUCEMIA LINFOCITICA CRONICA"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-01-31"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"317622diag3"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|317622"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "C911",
+"display": "LEUCEMIA LINFOCITICA CRONICA"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-10-16"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"317622diag4"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|317622"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "C911",
+"display": "LEUCEMIA LINFOCITICA CRONICA"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-09-12"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"317622diag5"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|317622"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "C911",
+"display": "LEUCEMIA LINFOCITICA CRONICA"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-11-14"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"317622diag6"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|317622"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "C911",
+"display": "LEUCEMIA LINFOCITICA CRONICA"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-07-06"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"317622diag7"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|317622"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "C911",
+"display": "LEUCEMIA LINFOCITICA CRONICA"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-07-05"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"320820diag1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|320820"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "E660",
+"display": "OBESIDAD DEBIDA A EXCESO DE CALORIAS"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-02-28"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"320820diag2"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|320820"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "E631",
+"display": "DESEQUILIBRIO DE LOS CONSTITUYENTES EN LA DIETA"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-08-15"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"320820diag3"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|320820"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "E631",
+"display": "DESEQUILIBRIO DE LOS CONSTITUYENTES EN LA DIETA"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-01-03"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"321572diag1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|321572"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "E46",
+"display": "DESNUTRICION PROTEICOCALORICA, NO ESPECIFICADA"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-11-27"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"325984diag1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|325984"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "Z724",
+"display": "PROBLEMAS RELACIONADOS CON LA DIETA Y HABITOS ALIMENTARIOS INAPROPIADOS"
+        }
+      ]  
+   },
+"onsetDateTime":"2022-11-04"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"332848diag1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|332848"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "S418",
+"display": "HERIDA DE OTRAS PARTES Y DE LAS NO ESPECIFICADAS DEL HOMBRO Y DEL BRAZO"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-03-31"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"332848diag2"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|332848"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "T888",
+"display": "OTRAS COMPLICACIONES ESPECIFICADAS DE LA ATENCION MEDICA Y QUIRURGICA, NO CLASIFICADAS EN OTRA PARTE"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-03-31"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"332848diag3"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|332848"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "C400",
+"display": "TUMOR MALIGNO DEL OMOPLATO Y DE LOS HUESOS LARGOS DEL MIEMBRO SUPERIOR"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-03-31"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"334086diag1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|334086"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "N180",
+"display": "INSUFICIENCIA RENAL TERMINAL"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-09-18"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"334086diag2"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|334086"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "I151",
+"display": "HIPERTENSION SECUNDARIA A OTROS TRASTORNOS RENALES"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-08-29"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"338533diag1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|338533"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "C920",
+"display": "LEUCEMIA MIELOIDE AGUDA"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-11-03"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"338533diag2"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|338533"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "C920",
+"display": "LEUCEMIA MIELOIDE AGUDA"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-11-07"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"338533diag3"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|338533"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "C920",
+"display": "LEUCEMIA MIELOIDE AGUDA"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-08-01"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"338533diag4"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|338533"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "C920",
+"display": "LEUCEMIA MIELOIDE AGUDA"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-09-07"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"338533diag5"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|338533"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "C920",
+"display": "LEUCEMIA MIELOIDE AGUDA"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-06-29"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"338533diag6"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|338533"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "C920",
+"display": "LEUCEMIA MIELOIDE AGUDA"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-04-20"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"338533diag7"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|338533"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "C921",
+"display": "LEUCEMIA MIELOIDE CRONICA"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-10-31"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"338533diag8"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|338533"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "C920",
+"display": "LEUCEMIA MIELOIDE AGUDA"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-07-13"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"338533diag9"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|338533"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "C920",
+"display": "LEUCEMIA MIELOIDE AGUDA"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-09-25"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"338533diag10"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|338533"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "C920",
+"display": "LEUCEMIA MIELOIDE AGUDA"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-03-09"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"338533diag11"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|338533"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "C920",
+"display": "LEUCEMIA MIELOIDE AGUDA"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-08-03"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"338533diag12"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|338533"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "C920",
+"display": "LEUCEMIA MIELOIDE AGUDA"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-03-02"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"338533diag13"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|338533"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "C920",
+"display": "LEUCEMIA MIELOIDE AGUDA"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-06-08"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"338533diag14"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|338533"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "E631",
+"display": "DESEQUILIBRIO DE LOS CONSTITUYENTES EN LA DIETA"
+        }
+      ]  
+   },
+"onsetDateTime":"2022-11-08"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"338533diag15"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|338533"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "J849",
+"display": "ENFERMEDAD PULMONAR INTERSTICIAL, NO ESPECIFICADA"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-05-16"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"338533diag16"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|338533"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "C920",
+"display": "LEUCEMIA MIELOIDE AGUDA"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-03-21"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"338533diag17"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|338533"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "C920",
+"display": "LEUCEMIA MIELOIDE AGUDA"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-08-14"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"338533diag18"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|338533"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "C920",
+"display": "LEUCEMIA MIELOIDE AGUDA"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-09-19"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"340626diag1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|340626"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "D65",
+"display": "COAGULACION INTRAVASCULAR DISEMINADA [SINDROME DE DESFIBRINACION]"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-10-01"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"340626diag2"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|340626"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "E631",
+"display": "DESEQUILIBRIO DE LOS CONSTITUYENTES EN LA DIETA"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-02-12"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"343713diag1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|343713"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "C699",
+"display": "TUMOR MALIGNO DEL OJO, PARTE NO ESPECIFICADA"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-02-27"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"344771diag1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|344771"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "C900",
+"display": "MIELOMA MULTIPLE"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-06-20"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"347222diag1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|347222"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "I519",
+"display": "ENFERMEDAD CARDIACA, NO ESPECIFICADA"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-10-14"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"347222diag2"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|347222"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "G936",
+"display": "EDEMA CEREBRAL"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-09-19"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"350683diag1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|350683"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "A689",
+"display": "FIEBRE RECURRENTE, NO ESPECIFICADA"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-09-21"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"350683diag2"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|350683"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "C920",
+"display": "LEUCEMIA MIELOIDE AGUDA"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-11-18"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"351422diag1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|351422"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "E631",
+"display": "DESEQUILIBRIO DE LOS CONSTITUYENTES EN LA DIETA"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-11-08"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"351422diag2"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|351422"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "C920",
+"display": "LEUCEMIA MIELOIDE AGUDA"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-12-07"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"351422diag3"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|351422"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "C920",
+"display": "LEUCEMIA MIELOIDE AGUDA"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-12-26"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"353692diag1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|353692"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "G409",
+"display": "EPILEPSIA, TIPO NO ESPECIFICADO"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-12-06"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"355921diag1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|355921"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "D648",
+"display": "OTRAS ANEMIAS ESPECIFICADAS"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-11-17"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"355921diag2"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|355921"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "N19",
+"display": "INSUFICIENCIA RENAL NO ESPECIFICADA"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-11-17"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"356404diag1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|356404"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "D692",
+"display": "OTRAS PURPURAS NO TROMBOCITOPENICAS"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-11-25"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"36839diag1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|36839"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "Z540",
+"display": "CONVALECENCIA CONSECUTIVA A CIRUGIA"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-12-01"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"4415diag1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|4415"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "M069",
+"display": "ARTRITIS REUMATOIDE, NO ESPECIFICADA"
+        }
+      ]  
+   },
+"onsetDateTime":"2010-10-26"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"4415diag2"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|4415"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "Y66",
+"display": "NO ADMINISTRACION DE LA ATENCION MEDICA Y QUIRURGICA"
+        }
+      ]  
+   },
+"onsetDateTime":"2022-10-19"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"46073diag1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|46073"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "T455",
+"display": "ANTICOAGULANTES"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-09-21"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"46073diag2"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|46073"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "T455",
+"display": "ANTICOAGULANTES"
+        }
+      ]  
+   },
+"onsetDateTime":"2022-12-01"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"46073diag3"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|46073"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "T455",
+"display": "ANTICOAGULANTES"
+        }
+      ]  
+   },
+"onsetDateTime":"2023-09-07"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"5872diag1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|5872"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "K528",
+"display": "OTRAS COLITIS Y GASTROENTERITIS NO INFECCIOSAS ESPECIFICADAS"
+        }
+      ]  
+   },
+"onsetDateTime":"2010-01-14"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"5872diag2"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|5872"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "K295",
+"display": "GASTRITIS CRONICA, NO ESPECIFICADA"
+        }
+      ]  
+   },
+"onsetDateTime":"2010-08-03"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"6240diag1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|6240"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "I10",
+"display": "HIPERTENSION ESENCIAL (PRIMARIA)"
+        }
+      ]  
+   },
+"onsetDateTime":"2010-08-03"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"6240diag2"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|6240"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "I10",
+"display": "HIPERTENSION ESENCIAL (PRIMARIA)"
+        }
+      ]  
+   },
+"onsetDateTime":"2011-09-20"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"6302diag1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|6302"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "H350",
+"display": "RETINOPATIAS DEL FONDO Y CAMBIOS VASCULARES RETINIANOS"
+        }
+      ]  
+   },
+"onsetDateTime":"2013-08-28"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"77400diag1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|77400"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "A09",
+"display": "DIARREA Y GASTROENTERITIS DE PRESUNTO ORIGEN INFECCIOSO"
+        }
+      ]  
+   },
+"onsetDateTime":"2012-01-27"
+} 
+]

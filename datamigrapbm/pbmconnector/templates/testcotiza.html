@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Interactive Image Selection</title>
+<style>
+    #image-container {
+        position: relative;
+    }
+    #selected-points {
+        position: absolute;
+    }
+    .point {
+        width: 10px;
+        height: 10px;
+        background-color: red;
+        border-radius: 50%;
+        position: absolute;
+        cursor: pointer;
+    }
+</style>
+</head>
+<body>
+
+<div id="image-container">
+    <img id="image" src="your_image.jpg" alt="Your Image" width="500">
+    <div id="selected-points"></div>
+</div>
+
+<script>
+    const imageContainer = document.getElementById('image-container');
+    const selectedPoints = document.getElementById('selected-points');
+    const image = document.getElementById('image');
+
+    function addPoint(x, y) {
+        const point = document.createElement('div');
+        point.classList.add('point');
+        point.style.left = x + 'px';
+        point.style.top = y + 'px';
+        selectedPoints.appendChild(point);
+    }
+
+    function handleImageClick(event) {
+        const boundingRect = image.getBoundingClientRect();
+        const x = event.clientX - boundingRect.left;
+        const y = event.clientY - boundingRect.top;
+        addPoint(x, y);
+    }
+
+    image.addEventListener('click', handleImageClick);
+</script>
+
+</body>
+</html>

@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Document</title>
+      {% load static %}
+</head>
+<body>
+   <h1>Hello PBM</h1> 
+   {% comment %} <h1>{{ typeresource }} Status: {{status}}</h1>  
+   <p>{{ obsfhir }}</p>  {% endcomment %}
+   <p>Patient 2</p>
+   {% comment %} <p>{{ patient }}</p>  {% endcomment %}
+   <p>All registers</p>
+   <p>{{ reporte }}::Total patients:: {{ totalpatients }}</p> 
+   <p>Not found in Conditions</p>
+   <p>Number of Patients has not found in Conditions {% if nopnotfinded == null %}
+      All patients have in Condictions
+      {%else %}
+      {{nopnotfinded}}
+        {% endif%} 
+        ::: {{ pnotfinded }}</p>
+   <p>Not found in Procedures </p>
+   <p>Number of Patient has not found in Procedures: {% if npp == null %}
+      All patients have in Procedures
+      {%else %}
+      {{npp}}
+        {% endif%}
+        :::{{ nofindedp }}</p>
+   <p>Not found in EpisodeOfCare </p>
+   <p>Number of Patients has not found in EpisodeOfCare: {% if nppe == null %}
+    All patients have in EpisodeOfCare
+    {%else %}
+      {{nppe}}
+      {% endif%}
+      
+      :::{{ nofindede }}</p>
+
+      <p>Not found in MedicationAdministration </p>
+      <p>Number of Patients has not found in MedicationAdministration: {% if npm == null %}
+       All patients have in MedicationAdministration
+       {%else %}
+         {{npm}}
+         {% endif%}
+         
+         :::{{ nofoundm }}</p>
+
+         <p>Not found in Encounter </p>
+      <p>Number of Patients has not found in Encounter: {% if npen == null %}
+       All patients have in Encounter
+       {%else %}
+         {{npen}}
+         {% endif%}
+         
+         :::{{ nofounden }}</p>
+
+         <p>Not found in Observation </p>
+         <p>Number of Patients has not found in Observation: {% if npob == null %}
+          All patients have in Observation
+          {%else %}
+            {{npob}}
+            {% endif%}
+            
+            :::{{ nofoundob }}</p>
+
+            <p><h2>Condition(diagN) Not found in Encounters</h2> </p>
+         <p>{{ npee}}::: 
+            
+           {{ arrDiagsInEnconters }}</p>
+
+
+           <p><h2>found in Encounters</h2> </p>
+         <p>Conditions or diagN found in Encounters: </p>
+            
+           <p>{{fpe}}:::{{ foundincond }}</p>
+</body>
+</html>

@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{% block title %}PBM Upload Data{% endblock %}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Include any CSS files here -->
+    {% block stylesheets %}
+    {% load static %}
+    <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"> -->
+     <link rel="stylesheet" href="{%  static 'css/indexhome.css' %}">
+     
+     
+    <link rel="icon" type="image/x-icon" href="{% static 'images/favicon.ico' %}"> 
+    
+
+     
+    {% endblock %}
+
+</head>
+<body>
+  <div class="containerheader">
+    <div class="boxheader"><h2>Migración de datos a PBM, seleccionar la opción </h2></div>
+
+  </div>
+  <hr class="linea">
+  <div class="container">
+    
+    <!-- <div class="box" id="box1">1</div> -->
+    <form method="post" action='/datatofhir/'>
+      {% csrf_token %}
+  <h1>Upload resources</h1>
+      <button class="box" id="box2">Patients</button>
+      <button class="box" id="box2">EpisodeOfCare</button>
+      <button class="box" id="box2">Conditions</button>
+      <button class="box" id="box2">Procedures</button>
+      <button class="box" id="box2">Encounters</button>
+      <button class="box" id="box2">MedicationAdministrations</button>
+      <button class="box" id="box2">Observations</button>
+      <h1>Update resources</h1>
+      <button class="box3" id="box5" >Patients</button>
+       <button class="box3" id="box3">EpisodeOfCare</button>
+      <button class="box3" id="box3">Conditions</button>
+      <button class="box3" id="box3">Procedures</button>
+      <button class="box3" id="box3">Encounters</button>
+      <button class="box3" id="box3">MedicationAdministrations</button>
+      <button class="box3" id="box3">Observations</button> 
+  </form>
+    <!-- <div class="box" id="box2">2</div> 
+    <div class="box" id="box3">3</div>
+    <div class="box" id="box4">4</div> -->
+    
+  </div>
+
+    <main>
+        {% block content %}
+       
+        {% endblock %}
+    </main>
+   
+    <footer>
+        <!-- Include any footer content here -->
+    </footer>
+    
+    
+</body>
+</html>
