@@ -1,0 +1,45 @@
+
+trigger:
+- toshibaagent
+
+pool:
+   name: toshibaagent
+variables:
+- name: PATH 
+  value: /folder1/folder2/
+- name: DOCKERFILE
+  value: folder1/folder2/Dockerfile
+
+# stages:
+#   - stage: A
+#     jobs:
+#     - job: Una tarea simple
+#     - script: |
+#         echo 'This is Hello World $(PATH)'
+#         echo 'Welcome to DevOps $(DOCKER_FILE)'
+#   - stage: B
+#     jobs:
+#     - job: Second work
+#     - script: |
+#         echo "End of pipeline"
+#         echo "Happy end"
+
+
+stages:
+
+- stage: 
+    jobs:
+    - job: Job1
+      steps:
+        - step: step1
+          script: |
+             command1
+             command2
+        - step: step2
+           
+    - job: Job2
+- stage: B
+  jobs:
+  - job: sbjob1
+    step: sbsjob1
+    
