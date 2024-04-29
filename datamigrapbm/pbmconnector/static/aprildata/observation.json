@@ -1,0 +1,4032 @@
+[{
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"119376obs1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|119376"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|119376encount1"
+   },
+  "valueQuantity":{
+  "value":16.30,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-02-25"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"13156obs1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|13156"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|13156encount1"
+   },
+  "valueQuantity":{
+  "value":15.80,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-03-07"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"13156obs2"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|13156"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|13156encount2"
+   },
+  "valueQuantity":{
+  "value":15.80,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-03-07"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"13156obs3"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|13156"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|13156encount3"
+   },
+  "valueQuantity":{
+  "value":15.80,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-03-07"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"13156obs4"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|13156"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|13156encount4"
+   },
+  "valueQuantity":{
+  "value":15.80,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-03-07"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"13156obs5"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|13156"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|13156encount5"
+   },
+  "valueQuantity":{
+  "value":15.80,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-03-07"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"14034obs1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|14034"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|14034encount1"
+   },
+  "valueQuantity":{
+  "value":13.30,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-03-29"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"14034obs2"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|14034"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|14034encount2"
+   },
+  "valueQuantity":{
+  "value":13.30,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-03-12"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"14034obs3"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|14034"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|14034encount3"
+   },
+  "valueQuantity":{
+  "value":13.30,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-03-12"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"14034obs4"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|14034"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|14034encount4"
+   },
+  "valueQuantity":{
+  "value":13.30,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-03-12"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"14034obs5"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|14034"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|14034encount5"
+   },
+  "valueQuantity":{
+  "value":13.30,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-03-29"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"14034obs6"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|14034"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|14034encount6"
+   },
+  "valueQuantity":{
+  "value":13.30,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-03-29"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"14034obs7"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|14034"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|14034encount7"
+   },
+  "valueQuantity":{
+  "value":13.30,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-03-12"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"142487obs1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|142487"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|142487encount1"
+   },
+  "valueQuantity":{
+  "value":8.40,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-04-07"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"144734obs1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|144734"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|144734encount1"
+   },
+  "valueQuantity":{
+  "value":8.30,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-03-12"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"144734obs2"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|144734"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|144734encount2"
+   },
+  "valueQuantity":{
+  "value":8.30,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-04-05"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"146114obs1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|146114"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|146114encount1"
+   },
+  "valueQuantity":{
+  "value":11.20,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-03-11"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"146114obs2"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|146114"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|146114encount2"
+   },
+  "valueQuantity":{
+  "value":11.20,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-03-11"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"151192obs1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|151192"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|151192encount1"
+   },
+  "valueQuantity":{
+  "value":8.60,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-04-02"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"151192obs2"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|151192"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|151192encount2"
+   },
+  "valueQuantity":{
+  "value":8.60,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-04-10"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"156273obs1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|156273"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|156273encount1"
+   },
+  "valueQuantity":{
+  "value":7.40,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-04-05"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"156273obs2"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|156273"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|156273encount2"
+   },
+  "valueQuantity":{
+  "value":7.40,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-03-25"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"156273obs3"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|156273"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|156273encount3"
+   },
+  "valueQuantity":{
+  "value":7.40,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-04-05"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"166071obs1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|166071"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|166071encount1"
+   },
+  "valueQuantity":{
+  "value":9.80,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-03-14"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"171971obs1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|171971"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|171971encount1"
+   },
+  "valueQuantity":{
+  "value":11.40,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-04-16"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"173687obs1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|173687"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|173687encount1"
+   },
+  "valueQuantity":{
+  "value":8.20,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-03-26"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"176734obs1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|176734"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|176734encount1"
+   },
+  "valueQuantity":{
+  "value":8.40,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-04-14"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"179872obs1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|179872"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|179872encount1"
+   },
+  "valueQuantity":{
+  "value":10.40,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-04-09"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"179872obs2"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|179872"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|179872encount2"
+   },
+  "valueQuantity":{
+  "value":10.40,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-04-09"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"191890obs1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|191890"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|191890encount1"
+   },
+  "valueQuantity":{
+  "value":8.00,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-03-21"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"207797obs1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|207797"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|207797encount1"
+   },
+  "valueQuantity":{
+  "value":4.20,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-04-09"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"207797obs2"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|207797"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|207797encount2"
+   },
+  "valueQuantity":{
+  "value":4.20,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-04-02"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"207797obs3"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|207797"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|207797encount3"
+   },
+  "valueQuantity":{
+  "value":4.20,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-04-02"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"207797obs4"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|207797"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|207797encount4"
+   },
+  "valueQuantity":{
+  "value":4.20,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-04-02"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"207797obs5"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|207797"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|207797encount5"
+   },
+  "valueQuantity":{
+  "value":4.20,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-04-02"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"207797obs6"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|207797"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|207797encount6"
+   },
+  "valueQuantity":{
+  "value":4.20,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-04-09"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"225294obs1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|225294"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|225294encount1"
+   },
+  "valueQuantity":{
+  "value":5.30,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-03-28"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"225294obs2"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|225294"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|225294encount2"
+   },
+  "valueQuantity":{
+  "value":5.30,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-03-28"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"225294obs3"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|225294"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|225294encount3"
+   },
+  "valueQuantity":{
+  "value":5.30,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-03-28"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"225773obs1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|225773"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|225773encount1"
+   },
+  "valueQuantity":{
+  "value":7.40,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-02-21"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"228529obs1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|228529"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|228529encount1"
+   },
+  "valueQuantity":{
+  "value":9.60,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-04-11"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"229984obs1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|229984"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|229984encount1"
+   },
+  "valueQuantity":{
+  "value":5.50,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-04-13"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"232275obs1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|232275"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|232275encount1"
+   },
+  "valueQuantity":{
+  "value":10.70,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-04-04"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"2362obs1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|2362"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|2362encount1"
+   },
+  "valueQuantity":{
+  "value":6.70,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-04-11"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"25160obs1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|25160"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|25160encount1"
+   },
+  "valueQuantity":{
+  "value":11.76,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-04-18"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"254574obs1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|254574"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|254574encount1"
+   },
+  "valueQuantity":{
+  "value":11.90,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-04-17"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"255381obs1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|255381"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|255381encount1"
+   },
+  "valueQuantity":{
+  "value":7.70,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-04-02"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"255381obs2"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|255381"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|255381encount2"
+   },
+  "valueQuantity":{
+  "value":7.70,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-04-02"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"255384obs1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|255384"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|255384encount1"
+   },
+  "valueQuantity":{
+  "value":13.60,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-04-16"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"26442obs1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|26442"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|26442encount1"
+   },
+  "valueQuantity":{
+  "value":10.10,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-04-16"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"273894obs1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|273894"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|273894encount1"
+   },
+  "valueQuantity":{
+  "value":11.70,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-04-16"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"28508obs1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|28508"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|28508encount1"
+   },
+  "valueQuantity":{
+  "value":12.80,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-03-24"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"28508obs2"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|28508"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|28508encount2"
+   },
+  "valueQuantity":{
+  "value":12.80,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-03-24"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"287243obs1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|287243"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|287243encount1"
+   },
+  "valueQuantity":{
+  "value":9.80,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-04-14"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"29590obs1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|29590"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|29590encount1"
+   },
+  "valueQuantity":{
+  "value":8.40,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-04-13"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"29590obs2"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|29590"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|29590encount2"
+   },
+  "valueQuantity":{
+  "value":8.40,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-04-13"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"29590obs3"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|29590"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|29590encount3"
+   },
+  "valueQuantity":{
+  "value":8.40,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-04-13"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"29590obs4"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|29590"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|29590encount4"
+   },
+  "valueQuantity":{
+  "value":8.40,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-04-13"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"29590obs5"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|29590"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|29590encount5"
+   },
+  "valueQuantity":{
+  "value":8.40,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-04-13"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"297424obs1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|297424"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|297424encount1"
+   },
+  "valueQuantity":{
+  "value":10.00,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-03-12"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"297424obs2"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|297424"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|297424encount2"
+   },
+  "valueQuantity":{
+  "value":10.00,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-03-12"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"297424obs3"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|297424"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|297424encount3"
+   },
+  "valueQuantity":{
+  "value":10.00,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-03-18"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"297424obs4"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|297424"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|297424encount4"
+   },
+  "valueQuantity":{
+  "value":10.00,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-03-18"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"297424obs5"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|297424"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|297424encount5"
+   },
+  "valueQuantity":{
+  "value":10.00,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-03-18"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"30354obs1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|30354"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|30354encount1"
+   },
+  "valueQuantity":{
+  "value":15.00,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-04-07"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"305322obs1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|305322"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|305322encount1"
+   },
+  "valueQuantity":{
+  "value":9.20,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-03-19"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"308985obs1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|308985"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|308985encount1"
+   },
+  "valueQuantity":{
+  "value":9.20,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-04-04"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"308985obs2"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|308985"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|308985encount2"
+   },
+  "valueQuantity":{
+  "value":9.20,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-04-04"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"308985obs3"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|308985"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|308985encount3"
+   },
+  "valueQuantity":{
+  "value":9.20,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-04-04"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"313707obs1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|313707"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|313707encount1"
+   },
+  "valueQuantity":{
+  "value":9.20,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-04-10"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"317941obs1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|317941"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|317941encount1"
+   },
+  "valueQuantity":{
+  "value":12.20,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-03-19"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"317941obs2"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|317941"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|317941encount2"
+   },
+  "valueQuantity":{
+  "value":12.20,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-03-19"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"317941obs3"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|317941"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|317941encount3"
+   },
+  "valueQuantity":{
+  "value":12.20,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-03-19"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"324829obs1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|324829"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|324829encount1"
+   },
+  "valueQuantity":{
+  "value":10.60,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-02-26"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"332947obs1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|332947"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|332947encount1"
+   },
+  "valueQuantity":{
+  "value":5.40,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-03-11"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"337692obs1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|337692"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|337692encount1"
+   },
+  "valueQuantity":{
+  "value":10.00,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-04-05"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"33785obs1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|33785"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|33785encount1"
+   },
+  "valueQuantity":{
+  "value":11.69,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-04-10"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"345702obs1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|345702"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|345702encount1"
+   },
+  "valueQuantity":{
+  "value":8.50,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-04-05"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"350562obs1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|350562"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|350562encount1"
+   },
+  "valueQuantity":{
+  "value":11.60,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-03-13"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"350562obs2"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|350562"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|350562encount2"
+   },
+  "valueQuantity":{
+  "value":11.60,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-03-13"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"351028obs1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|351028"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|351028encount1"
+   },
+  "valueQuantity":{
+  "value":10.10,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-04-19"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"352921obs1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|352921"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|352921encount1"
+   },
+  "valueQuantity":{
+  "value":9.30,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-04-08"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"355402obs1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|355402"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|355402encount1"
+   },
+  "valueQuantity":{
+  "value":7.70,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-04-01"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"356166obs1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|356166"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|356166encount1"
+   },
+  "valueQuantity":{
+  "value":15.70,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2023-11-21"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"356166obs2"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|356166"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|356166encount2"
+   },
+  "valueQuantity":{
+  "value":12.70,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2023-11-21"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"356166obs3"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|356166"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|356166encount3"
+   },
+  "valueQuantity":{
+  "value":12.70,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2023-11-21"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"356166obs4"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|356166"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|356166encount4"
+   },
+  "valueQuantity":{
+  "value":12.70,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2023-11-21"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"356166obs5"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|356166"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|356166encount5"
+   },
+  "valueQuantity":{
+  "value":12.70,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2023-11-21"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"356443obs1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|356443"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|356443encount1"
+   },
+  "valueQuantity":{
+  "value":9.00,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-03-19"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"356443obs2"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|356443"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|356443encount2"
+   },
+  "valueQuantity":{
+  "value":9.00,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-03-19"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"356443obs3"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|356443"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|356443encount3"
+   },
+  "valueQuantity":{
+  "value":9.00,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-03-19"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"356443obs4"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|356443"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|356443encount4"
+   },
+  "valueQuantity":{
+  "value":9.00,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-02-26"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"356443obs5"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|356443"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|356443encount5"
+   },
+  "valueQuantity":{
+  "value":9.00,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-03-19"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"356443obs6"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|356443"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|356443encount6"
+   },
+  "valueQuantity":{
+  "value":9.00,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-03-19"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"358361obs1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|358361"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|358361encount1"
+   },
+  "valueQuantity":{
+  "value":10.20,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-02-01"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"362582obs1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|362582"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|362582encount1"
+   },
+  "valueQuantity":{
+  "value":9.40,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-02-19"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"362701obs1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|362701"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|362701encount1"
+   },
+  "valueQuantity":{
+  "value":10.00,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-02-21"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"362702obs1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|362702"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|362702encount1"
+   },
+  "valueQuantity":{
+  "value":8.50,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-04-10"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"362722obs1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|362722"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|362722encount1"
+   },
+  "valueQuantity":{
+  "value":17.00,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-02-22"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"362722obs2"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|362722"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|362722encount2"
+   },
+  "valueQuantity":{
+  "value":17.00,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-02-22"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"362722obs3"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|362722"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|362722encount3"
+   },
+  "valueQuantity":{
+  "value":17.00,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-02-22"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"362722obs4"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|362722"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|362722encount4"
+   },
+  "valueQuantity":{
+  "value":17.00,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-02-22"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"363781obs1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|363781"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|363781encount1"
+   },
+  "valueQuantity":{
+  "value":15.90,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-03-09"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"363781obs2"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|363781"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|363781encount2"
+   },
+  "valueQuantity":{
+  "value":15.90,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-03-09"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"363781obs3"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|363781"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|363781encount3"
+   },
+  "valueQuantity":{
+  "value":15.90,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-03-09"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"363781obs4"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|363781"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|363781encount4"
+   },
+  "valueQuantity":{
+  "value":15.90,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-03-09"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"363781obs5"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|363781"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|363781encount5"
+   },
+  "valueQuantity":{
+  "value":15.90,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-03-09"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"363783obs1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|363783"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|363783encount1"
+   },
+  "valueQuantity":{
+  "value":13.80,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-03-09"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"363783obs2"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|363783"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|363783encount2"
+   },
+  "valueQuantity":{
+  "value":13.80,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-03-09"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"363783obs3"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|363783"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|363783encount3"
+   },
+  "valueQuantity":{
+  "value":13.80,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-03-09"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"364521obs1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|364521"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|364521encount1"
+   },
+  "valueQuantity":{
+  "value":8.20,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-03-25"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"364681obs1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|364681"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|364681encount1"
+   },
+  "valueQuantity":{
+  "value":18.40,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-03-27"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"364683obs1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|364683"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|364683encount1"
+   },
+  "valueQuantity":{
+  "value":10.70,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-03-27"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"365142obs1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|365142"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|365142encount1"
+   },
+  "valueQuantity":{
+  "value":11.70,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-04-10"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"365142obs2"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|365142"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|365142encount2"
+   },
+  "valueQuantity":{
+  "value":11.70,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-04-10"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"37225obs1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|37225"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|37225encount1"
+   },
+  "valueQuantity":{
+  "value":7.10,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-04-12"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"4538obs1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|4538"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|4538encount1"
+   },
+  "valueQuantity":{
+  "value":10.20,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-03-31"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"602607obs1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|602607"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|602607encount1"
+   },
+  "valueQuantity":{
+  "value":10.00,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-04-08"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"602669obs1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|602669"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|602669encount1"
+   },
+  "valueQuantity":{
+  "value":9.60,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-03-05"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"602669obs2"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|602669"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|602669encount2"
+   },
+  "valueQuantity":{
+  "value":9.60,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-03-05"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"603020obs1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|603020"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|603020encount1"
+   },
+  "valueQuantity":{
+  "value":11.00,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-03-26"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"603020obs2"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|603020"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|603020encount2"
+   },
+  "valueQuantity":{
+  "value":11.00,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-03-26"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"603082obs1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|603082"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|603082encount1"
+   },
+  "valueQuantity":{
+  "value":7.70,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-04-19"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"61456obs1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|61456"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|61456encount1"
+   },
+  "valueQuantity":{
+  "value":7.70,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2023-11-21"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"6302obs1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|6302"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|6302encount1"
+   },
+  "valueQuantity":{
+  "value":11.10,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-04-12"
+} 
+, 
+ {
+   "resourceType": "Observation",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"9272obs1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|9272"
+   },
+      "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|9272encount1"
+   },
+  "valueQuantity":{
+  "value":12.20,
+  "unit":"g/dl",
+  "system": "http://unitsofmeasure.org" 
+   },
+  "code":{
+  "coding": [
+    { 
+     "system": "http://unitsofmeasure.org",
+     "code": "718-7",
+"display": "Hemoglobina [g/dl] en Sangre"
+    }
+  ]  
+ },
+   "status": "final",
+"effectiveDateTime":"2024-04-16"
+} 
+] 

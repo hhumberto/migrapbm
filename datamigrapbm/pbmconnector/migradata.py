@@ -13,18 +13,18 @@ def datatofhir(request):
 
 ### Good Patient valided 
 
-    f = open("pbmconnector/static/data/patient0124.json",'r')
+    f = open("pbmconnector/static/aprildata/patient.json",'r', encoding='latin-1')
     pat = f.read()
     patient = json.loads(pat)
     if patient:
         exito = "yes"
     else:
         exito = "no"
-    print('Success read Patient file: ', exito)
+    print('Success read Patient file: ', exito,' Registers: ', len(patient))
     
 ### Good Condition valided 
     import codecs
-    ff = open("pbmconnector/static/data/condition0124.json", encoding='latin-1')
+    ff = open("pbmconnector/static/aprildata/condition.json", encoding='latin-1')
     con = ff.read()
     
     # print(con)
@@ -33,62 +33,62 @@ def datatofhir(request):
         exito = "yes"
     else:
         exito = "no"
-    print('Success read Condition file: ', exito)
+    print('Success read Condition file: ', exito, 'Registros: ', len(condition))
 
 ### Good EpisodeOfCare valided
  
-    eoc = open("pbmconnector/static/data/episodeofcare0124.json","r")
+    eoc = open("pbmconnector/static/aprildata/episodeofcare.json","r",  encoding='latin-1')
     eocare = eoc.read()
     episodeofcare = json.loads(eocare)
     if episodeofcare:
         exito = "yes"
     else:
         exito = "no"
-    print('Success read EpisodeOfCare file: ', exito)
+    print('Success read EpisodeOfCare file: ', exito, ' Registers: ', len(episodeofcare))
 
 ### Good for procedure valided
 
-    pro = open("pbmconnector/static/data/procedure0124.json", encoding='latin-1')
+    pro = open("pbmconnector/static/aprildata/procedure.json", encoding='latin-1')
     proce = pro.read()
     procedure = json.loads(proce)
     if procedure:
         exito = "yes"
     else:
         exito = "no"
-    print('Success read Procedure file: ', exito)
+    print('Success read Procedure file: ', exito,' Registros: ', len(procedure))
 
  ### Good for Encounter valided   
 
-    enc = open("pbmconnector/static/data/encounter0124v2.json", encoding="latin-1")
+    enc = open("pbmconnector/static/aprildata/encounter.json", encoding="latin-1")
     encount = enc.read()
     encounter = json.loads(encount)
     if encounter:
         exito = "yes"
     else:
         exito = "no"
-    print('Success read Encounter file: ', exito)
+    print('Success read Encounter file: ', exito, ' Registres: ', len(encounter))
 
 ### Good for Observation valided
 
-    obs = open("pbmconnector/static/data/observation0124.json","r")
+    obs = open("pbmconnector/static/aprildata/observation.json","r",  encoding='latin-1')
     observa = obs.read()
     observation = json.loads(observa)
     if observation:
         exito = "yes"
     else:
         exito = "no"
-    print('Success read Procedure file: ', exito)
+    print('Success read Observation file: ', exito, ' Registers: ', len(observation))
 
 ### Good for MedicationAdministration valided
 
-    medadmin = open("pbmconnector/static/data/medicaadmon0124v1.json","r")
+    medadmin = open("pbmconnector/static/aprildata/medicaadmon.json","r",  encoding='latin-1')
     mead = medadmin.read()
     medicaadmin = json.loads(mead)
     if medicaadmin:
         exito = "yes"
     else:
         exito = "no"
-    print('Success read Procedure file: ', exito)
+    print('Success read MedicationAdmin file: ', exito, ' Register: ', len(medicaadmin))
 
 #####
 
@@ -158,6 +158,7 @@ def datatofhir(request):
     # print("cond recuperado", getcondjson )
     # getcondjson['code']['coding'][0]['display'] = condition[0]['code']['coding'][0]['display']
     # print("actualizado", getcondjson)
+    
     # for cond in condition:
     #     rcc = requests.post(urlcondition, data=json.dumps(cond), headers=headers)
         
@@ -165,6 +166,7 @@ def datatofhir(request):
     #         print('Condition was created successfully')
     #     else:
     #         print('Error when Condition try to create')
+    
 ##
 
     
@@ -175,14 +177,24 @@ def datatofhir(request):
     #         print('EpisodeOfCare was created successfully')
     #     else:
     #         print('Error EpisodeOfCare try to create', r)
-
-# r = requests.post(urlobservation, data=json.dumps(observation[0]), headers=headers)
-# if r:
-#     print('Registro exitoso Observation')
-# else:
-#     print('Error en registro Observation')
+            
+    # for observa in observation:
+    #     r = requests.post(urlobservation, data=json.dumps(observa), headers=headers)
+    #     if r:
+    #         print('Registro exitoso Observation')
+    #     else:
+    #         print('Error en registro Observation')
 ##
+#
+    # for ma in medicaadmin:
+    #     r = requests.post(urlmedicaadmin, data=json.dumps(ma), headers=headers)
+    #     if r:
+    #         print('Registro exitoso MedicationAdmin')
+    #     else:
+    #         print('Error en registro MedicationAdmin')
 
+
+## 4
     # for procs in procedure:
     #     r = requests.post(urlprocedure, data=json.dumps(procs), headers=headers)
     #     if r:
@@ -190,13 +202,17 @@ def datatofhir(request):
     #     else:
     #         print('Error en registro de Procedure')
 
-##
-
-# r = requests.post(urlencounter, data=json.dumps(encounter[0]), headers=headers)
-# if r:
-#     print('Registro exitoso de Encounter',r)
-# else:
-#     print('Error en registro de Encounter',r)
+## 5
+    print("3:", encounter[2] )
+    print("4:", encounter[3] )
+    print("5:", encounter[4] )
+    print("6:", encounter[5] )
+    # for encount1 in encounter:
+    #     r = requests.post(urlencounter, data=json.dumps(encount1), headers=headers)
+    #     if r:
+    #         print('Registro exitoso de Encounter',r)
+    #     else:
+    #         print('Error en registro de Encounter',r)
 
 
     # r = requests.post(urlobservation, data=json.dumps(observation[0]), headers=headers)
@@ -254,7 +270,7 @@ def datatofhir(request):
     idobservation = arrayObservation(observation)
     idmedicaadmin = arrayMedicationAdmin(medicaadmin)
     idprocedure = arrayProcedure(procedure)
-    print('Array dimension of Diagnosis in Encounters: ', diagreferences[980])
+    # print('Array dimension of Diagnosis in Encounters: ', diagreferences[980])
     
     arrDiagsInEnconters, foundincond, fpe, npee = findDiagInEncounter(idencounter, idconditions, diagreferences)
     
@@ -439,7 +455,7 @@ def detectPatientIntoProcedures(idpatient, idprocedure):
             finded = "No"
             np = np + 1
             nofinded.append(elemento)
-            print('No finded in procedures: ', elemento, ":::", np)
+            print('No found in procedures: ', elemento, ":::", np)
             
     if fp == totalpatients:
         print('All Patients are in Procedure')

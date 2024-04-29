@@ -1,0 +1,5808 @@
+ [{
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"119376cas1trans15429273"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|119376"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|119376encount1"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-02-25"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"13156cas1trans15518638"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|13156"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|13156encount1"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-03-07"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"13156cas2trans15509312"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|13156"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|13156encount2"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-03-07"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"13156cas3trans15486773"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|13156"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|13156encount3"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-03-07"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"13156cas4trans15485611"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|13156"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|13156encount4"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-03-07"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"13156cas5trans15514397"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|13156"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|13156encount5"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-03-07"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"14034cas1trans15486438"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|14034"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|14034encount1"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-03-12"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"14034cas2trans15505575"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|14034"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|14034encount2"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-03-12"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"14034cas3trans15509768"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|14034"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|14034encount3"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-03-12"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"14034cas4trans15510155"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|14034"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|14034encount4"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-03-12"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"14034cas5trans15489899"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|14034"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|14034encount5"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-03-29"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"14034cas6trans15509083"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|14034"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|14034encount6"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-03-29"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"14034cas7trans15521439"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|14034"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|14034encount7"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-03-29"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"142487cas1trans15508736"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|142487"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|142487encount1"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-04-07"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"144734cas1trans15485479"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|144734"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|144734encount1"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-03-12"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"144734cas2trans15496630"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|144734"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|144734encount2"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-04-05"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"146114cas1trans15504639"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|146114"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|146114encount1"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-03-11"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"146114cas2trans15487536"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|146114"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|146114encount2"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-03-11"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"151192cas1trans15491558"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|151192"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|151192encount1"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-04-02"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"151192cas2trans15503764"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|151192"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|151192encount2"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-04-10"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"156273cas1trans15496488"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|156273"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|156273encount1"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-04-05"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"156273cas2trans15485507"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|156273"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|156273encount2"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-03-25"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"156273cas3trans15512784"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|156273"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|156273encount3"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-04-05"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"166071cas1trans15482775"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|166071"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|166071encount1"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-03-14"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"171971cas1trans15513843"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|171971"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|171971encount1"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-04-16"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"173687cas1trans15482364"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|173687"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|173687encount1"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-03-26"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"176734cas1trans15509898"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|176734"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|176734encount1"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-04-14"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"179872cas1trans15506684"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|179872"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|179872encount1"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-04-09"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"179872cas2trans15502815"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|179872"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|179872encount2"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-04-09"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"191890cas1trans15479668"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|191890"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|191890encount1"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-03-21"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"207797cas1trans15515705"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|207797"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|207797encount1"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-04-02"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"207797cas2trans15511372"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|207797"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|207797encount2"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-04-02"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"207797cas3trans15511692"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|207797"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|207797encount3"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-04-09"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"207797cas4trans15515346"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|207797"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|207797encount4"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-04-02"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"207797cas5trans15521497"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|207797"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|207797encount5"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-04-09"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"207797cas6trans15496435"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|207797"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|207797encount6"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-04-02"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"225294cas1trans15517314"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|225294"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|225294encount1"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-03-28"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"225294cas2trans15484535"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|225294"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|225294encount2"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-03-28"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"225294cas3trans15485407"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|225294"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|225294encount3"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-03-28"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"225773cas1trans15429811"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|225773"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|225773encount1"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-02-21"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"228529cas1trans15514171"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|228529"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|228529encount1"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-04-11"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"229984cas1trans15509756"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|229984"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|229984encount1"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-04-13"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"232275cas1trans15493704"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|232275"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|232275encount1"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-04-04"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"2362cas1trans15518156"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|2362"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|2362encount1"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-04-11"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"25160cas1trans15521584"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|25160"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|25160encount1"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-04-18"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"254574cas1trans15517880"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|254574"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|254574encount1"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-04-17"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"255381cas1trans15493559"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|255381"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|255381encount1"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-04-02"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"255381cas2trans15491963"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|255381"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|255381encount2"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-04-02"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"255384cas1trans15521015"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|255384"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|255384encount1"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-04-16"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"26442cas1trans15514080"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|26442"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|26442encount1"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-04-16"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"273894cas1trans15517481"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|273894"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|273894encount1"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-04-16"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"28508cas1trans15487295"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|28508"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|28508encount1"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-03-24"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"28508cas2trans15490266"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|28508"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|28508encount2"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-03-24"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"287243cas1trans15511508"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|287243"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|287243encount1"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-04-14"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"29590cas1trans15512841"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|29590"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|29590encount1"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-04-13"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"29590cas2trans15509033"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|29590"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|29590encount2"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-04-13"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"29590cas3trans15518044"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|29590"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|29590encount3"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-04-13"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"29590cas4trans15509721"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|29590"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|29590encount4"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-04-13"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"29590cas5trans15513613"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|29590"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|29590encount5"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-04-13"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"297424cas1trans15484669"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|297424"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|297424encount1"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-03-18"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"297424cas2trans15484662"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|297424"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|297424encount2"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-03-12"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"297424cas3trans15486181"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|297424"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|297424encount3"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-03-18"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"297424cas4trans15484451"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|297424"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|297424encount4"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-03-18"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"297424cas5trans15485283"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|297424"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|297424encount5"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-03-12"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"299043cas1trans15519071"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|299043"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|299043encount1"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-04-19"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"299043cas2trans15518609"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|299043"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|299043encount2"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-04-18"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"30354cas1trans15511211"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|30354"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|30354encount1"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-04-07"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"305322cas1trans15487376"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|305322"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|305322encount1"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-03-19"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"308985cas1trans15503923"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|308985"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|308985encount1"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-04-04"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"308985cas2trans15501576"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|308985"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|308985encount2"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-04-04"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"308985cas3trans15495564"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|308985"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|308985encount3"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-04-04"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"313707cas1trans15504673"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|313707"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|313707encount1"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-04-10"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"317941cas1trans15490043"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|317941"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|317941encount1"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-03-19"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"317941cas2trans15485986"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|317941"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|317941encount2"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-03-19"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"317941cas3trans15482957"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|317941"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|317941encount3"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-03-19"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"324829cas1trans15429830"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|324829"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|324829encount1"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-02-26"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"332947cas1trans15482938"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|332947"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|332947encount1"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-03-11"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"337692cas1trans15515249"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|337692"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|337692encount1"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-04-05"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"33785cas1trans15503863"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|33785"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|33785encount1"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-04-10"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"345702cas1trans15496578"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|345702"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|345702encount1"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-04-05"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"350562cas1trans15522203"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|350562"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|350562encount1"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-03-13"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"350562cas2trans15510691"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|350562"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|350562encount2"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-03-13"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"351028cas1trans15519860"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|351028"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|351028encount1"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-04-19"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"352921cas1trans15505574"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|352921"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|352921encount1"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-04-08"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"355402cas1trans15488269"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|355402"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|355402encount1"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-04-01"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"355702cas1trans15513340"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|355702"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|355702encount1"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2023-11-15"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"356166cas1trans15495541"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|356166"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|356166encount1"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2023-11-21"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"356166cas2trans15509943"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|356166"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|356166encount2"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2023-11-21"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"356166cas3trans15506967"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|356166"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|356166encount3"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2023-11-21"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"356166cas4trans15483320"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|356166"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|356166encount4"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2023-11-21"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"356166cas5trans15503655"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|356166"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|356166encount5"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2023-11-21"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"356443cas1trans15519187"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|356443"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|356443encount1"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-03-19"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"356443cas2trans15429837"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|356443"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|356443encount2"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-02-26"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"356443cas3trans15485285"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|356443"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|356443encount3"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-03-19"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"356443cas4trans15500697"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|356443"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|356443encount4"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-03-19"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"356443cas5trans15493688"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|356443"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|356443encount5"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-03-19"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"356443cas6trans15489162"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|356443"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|356443encount6"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-03-19"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"358361cas1trans15428946"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|358361"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|358361encount1"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-02-01"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"362582cas1trans15485441"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|362582"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|362582encount1"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-02-19"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"362701cas1trans15500938"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|362701"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|362701encount1"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-02-21"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"362702cas1trans15522215"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|362702"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|362702encount1"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-04-10"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"362722cas1trans15484478"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|362722"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|362722encount1"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-02-22"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"362722cas2trans15492440"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|362722"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|362722encount2"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-02-22"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"362722cas3trans15517530"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|362722"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|362722encount3"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-02-22"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"362722cas4trans15493019"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|362722"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|362722encount4"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-02-22"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"363781cas1trans15517219"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|363781"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|363781encount1"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-03-09"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"363781cas2trans15512489"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|363781"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|363781encount2"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-03-09"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"363781cas3trans15522153"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|363781"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|363781encount3"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-03-09"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"363781cas4trans15489874"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|363781"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|363781encount4"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-03-09"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"363781cas5trans15518718"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|363781"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|363781encount5"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-03-09"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"363783cas1trans15487487"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|363783"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|363783encount1"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-03-09"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"363783cas2trans15519178"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|363783"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|363783encount2"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-03-09"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"363783cas3trans15522417"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|363783"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|363783encount3"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-03-09"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"364521cas1trans15488534"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|364521"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|364521encount1"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-03-25"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"364681cas1trans15484343"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|364681"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|364681encount1"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-03-27"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"364683cas1trans15516812"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|364683"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|364683encount1"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-03-27"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"365142cas1trans15505876"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|365142"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|365142encount1"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-04-10"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"365142cas2trans15510198"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|365142"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|365142encount2"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-04-10"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"365317cas1trans15516622"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|365317"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|365317encount1"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-04-17"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"37225cas1trans15515853"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|37225"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|37225encount1"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-04-12"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"4538cas1trans15487318"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|4538"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|4538encount1"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-03-31"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"47668cas1trans15514134"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|47668"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|47668encount1"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-04-16"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"602607cas1trans15500689"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|602607"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|602607encount1"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-04-08"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"602669cas1trans15521529"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|602669"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|602669encount1"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-03-05"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"602669cas2trans15509714"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|602669"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|602669encount2"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-03-05"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"603020cas1trans15509706"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|603020"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|603020encount1"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-03-26"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"603020cas2trans15489811"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|603020"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|603020encount2"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-03-26"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"603082cas1trans15519785"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|603082"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|603082encount1"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-04-19"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"604616cas1trans15517163"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|604616"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|604616encount1"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-04-18"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"61456cas1trans15502632"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|61456"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|61456encount1"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2023-11-21"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"6302cas1trans15509404"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|6302"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|6302encount1"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-04-12"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"9272cas1trans15514223"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|9272"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|9272encount1"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-04-16"
+} 
+] 

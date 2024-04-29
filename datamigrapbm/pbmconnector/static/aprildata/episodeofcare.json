@@ -1,0 +1,1008 @@
+[{
+   "resourceType": "EpisodeOfCare",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"119376Ep1"
+   }
+   ],
+   "patient": { 
+"reference":"Patient?identifier=CEMENAV|119376"
+ },
+"status": "finished"
+} 
+, 
+ {
+   "resourceType": "EpisodeOfCare",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"13156Ep1"
+   }
+   ],
+   "patient": { 
+"reference":"Patient?identifier=CEMENAV|13156"
+ },
+"status": "finished"
+} 
+, 
+ {
+   "resourceType": "EpisodeOfCare",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"14034Ep1"
+   }
+   ],
+   "patient": { 
+"reference":"Patient?identifier=CEMENAV|14034"
+ },
+"status": "finished"
+} 
+, 
+ {
+   "resourceType": "EpisodeOfCare",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"142487Ep1"
+   }
+   ],
+   "patient": { 
+"reference":"Patient?identifier=CEMENAV|142487"
+ },
+"status": "finished"
+} 
+, 
+ {
+   "resourceType": "EpisodeOfCare",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"144734Ep1"
+   }
+   ],
+   "patient": { 
+"reference":"Patient?identifier=CEMENAV|144734"
+ },
+"status": "finished"
+} 
+, 
+ {
+   "resourceType": "EpisodeOfCare",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"146114Ep1"
+   }
+   ],
+   "patient": { 
+"reference":"Patient?identifier=CEMENAV|146114"
+ },
+"status": "finished"
+} 
+, 
+ {
+   "resourceType": "EpisodeOfCare",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"151192Ep1"
+   }
+   ],
+   "patient": { 
+"reference":"Patient?identifier=CEMENAV|151192"
+ },
+"status": "finished"
+} 
+, 
+ {
+   "resourceType": "EpisodeOfCare",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"156273Ep1"
+   }
+   ],
+   "patient": { 
+"reference":"Patient?identifier=CEMENAV|156273"
+ },
+"status": "finished"
+} 
+, 
+ {
+   "resourceType": "EpisodeOfCare",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"166071Ep1"
+   }
+   ],
+   "patient": { 
+"reference":"Patient?identifier=CEMENAV|166071"
+ },
+"status": "finished"
+} 
+, 
+ {
+   "resourceType": "EpisodeOfCare",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"171971Ep1"
+   }
+   ],
+   "patient": { 
+"reference":"Patient?identifier=CEMENAV|171971"
+ },
+"status": "finished"
+} 
+, 
+ {
+   "resourceType": "EpisodeOfCare",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"173687Ep1"
+   }
+   ],
+   "patient": { 
+"reference":"Patient?identifier=CEMENAV|173687"
+ },
+"status": "finished"
+} 
+, 
+ {
+   "resourceType": "EpisodeOfCare",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"176734Ep1"
+   }
+   ],
+   "patient": { 
+"reference":"Patient?identifier=CEMENAV|176734"
+ },
+"status": "finished"
+} 
+, 
+ {
+   "resourceType": "EpisodeOfCare",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"179872Ep1"
+   }
+   ],
+   "patient": { 
+"reference":"Patient?identifier=CEMENAV|179872"
+ },
+"status": "finished"
+} 
+, 
+ {
+   "resourceType": "EpisodeOfCare",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"191890Ep1"
+   }
+   ],
+   "patient": { 
+"reference":"Patient?identifier=CEMENAV|191890"
+ },
+"status": "finished"
+} 
+, 
+ {
+   "resourceType": "EpisodeOfCare",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"207797Ep1"
+   }
+   ],
+   "patient": { 
+"reference":"Patient?identifier=CEMENAV|207797"
+ },
+"status": "finished"
+} 
+, 
+ {
+   "resourceType": "EpisodeOfCare",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"225294Ep1"
+   }
+   ],
+   "patient": { 
+"reference":"Patient?identifier=CEMENAV|225294"
+ },
+"status": "finished"
+} 
+, 
+ {
+   "resourceType": "EpisodeOfCare",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"225773Ep1"
+   }
+   ],
+   "patient": { 
+"reference":"Patient?identifier=CEMENAV|225773"
+ },
+"status": "finished"
+} 
+, 
+ {
+   "resourceType": "EpisodeOfCare",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"228529Ep1"
+   }
+   ],
+   "patient": { 
+"reference":"Patient?identifier=CEMENAV|228529"
+ },
+"status": "finished"
+} 
+, 
+ {
+   "resourceType": "EpisodeOfCare",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"229984Ep1"
+   }
+   ],
+   "patient": { 
+"reference":"Patient?identifier=CEMENAV|229984"
+ },
+"status": "finished"
+} 
+, 
+ {
+   "resourceType": "EpisodeOfCare",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"232275Ep1"
+   }
+   ],
+   "patient": { 
+"reference":"Patient?identifier=CEMENAV|232275"
+ },
+"status": "finished"
+} 
+, 
+ {
+   "resourceType": "EpisodeOfCare",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"2362Ep1"
+   }
+   ],
+   "patient": { 
+"reference":"Patient?identifier=CEMENAV|2362"
+ },
+"status": "finished"
+} 
+, 
+ {
+   "resourceType": "EpisodeOfCare",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"25160Ep1"
+   }
+   ],
+   "patient": { 
+"reference":"Patient?identifier=CEMENAV|25160"
+ },
+"status": "finished"
+} 
+, 
+ {
+   "resourceType": "EpisodeOfCare",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"254574Ep1"
+   }
+   ],
+   "patient": { 
+"reference":"Patient?identifier=CEMENAV|254574"
+ },
+"status": "finished"
+} 
+, 
+ {
+   "resourceType": "EpisodeOfCare",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"255381Ep1"
+   }
+   ],
+   "patient": { 
+"reference":"Patient?identifier=CEMENAV|255381"
+ },
+"status": "finished"
+} 
+, 
+ {
+   "resourceType": "EpisodeOfCare",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"255384Ep1"
+   }
+   ],
+   "patient": { 
+"reference":"Patient?identifier=CEMENAV|255384"
+ },
+"status": "finished"
+} 
+, 
+ {
+   "resourceType": "EpisodeOfCare",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"26442Ep1"
+   }
+   ],
+   "patient": { 
+"reference":"Patient?identifier=CEMENAV|26442"
+ },
+"status": "finished"
+} 
+, 
+ {
+   "resourceType": "EpisodeOfCare",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"273894Ep1"
+   }
+   ],
+   "patient": { 
+"reference":"Patient?identifier=CEMENAV|273894"
+ },
+"status": "finished"
+} 
+, 
+ {
+   "resourceType": "EpisodeOfCare",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"28508Ep1"
+   }
+   ],
+   "patient": { 
+"reference":"Patient?identifier=CEMENAV|28508"
+ },
+"status": "finished"
+} 
+, 
+ {
+   "resourceType": "EpisodeOfCare",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"287243Ep1"
+   }
+   ],
+   "patient": { 
+"reference":"Patient?identifier=CEMENAV|287243"
+ },
+"status": "finished"
+} 
+, 
+ {
+   "resourceType": "EpisodeOfCare",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"29590Ep1"
+   }
+   ],
+   "patient": { 
+"reference":"Patient?identifier=CEMENAV|29590"
+ },
+"status": "finished"
+} 
+, 
+ {
+   "resourceType": "EpisodeOfCare",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"297424Ep1"
+   }
+   ],
+   "patient": { 
+"reference":"Patient?identifier=CEMENAV|297424"
+ },
+"status": "finished"
+} 
+, 
+ {
+   "resourceType": "EpisodeOfCare",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"299043Ep1"
+   }
+   ],
+   "patient": { 
+"reference":"Patient?identifier=CEMENAV|299043"
+ },
+"status": "finished"
+} 
+, 
+ {
+   "resourceType": "EpisodeOfCare",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"30354Ep1"
+   }
+   ],
+   "patient": { 
+"reference":"Patient?identifier=CEMENAV|30354"
+ },
+"status": "finished"
+} 
+, 
+ {
+   "resourceType": "EpisodeOfCare",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"305322Ep1"
+   }
+   ],
+   "patient": { 
+"reference":"Patient?identifier=CEMENAV|305322"
+ },
+"status": "finished"
+} 
+, 
+ {
+   "resourceType": "EpisodeOfCare",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"308985Ep1"
+   }
+   ],
+   "patient": { 
+"reference":"Patient?identifier=CEMENAV|308985"
+ },
+"status": "finished"
+} 
+, 
+ {
+   "resourceType": "EpisodeOfCare",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"313707Ep1"
+   }
+   ],
+   "patient": { 
+"reference":"Patient?identifier=CEMENAV|313707"
+ },
+"status": "finished"
+} 
+, 
+ {
+   "resourceType": "EpisodeOfCare",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"317941Ep1"
+   }
+   ],
+   "patient": { 
+"reference":"Patient?identifier=CEMENAV|317941"
+ },
+"status": "finished"
+} 
+, 
+ {
+   "resourceType": "EpisodeOfCare",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"324829Ep1"
+   }
+   ],
+   "patient": { 
+"reference":"Patient?identifier=CEMENAV|324829"
+ },
+"status": "finished"
+} 
+, 
+ {
+   "resourceType": "EpisodeOfCare",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"332947Ep1"
+   }
+   ],
+   "patient": { 
+"reference":"Patient?identifier=CEMENAV|332947"
+ },
+"status": "finished"
+} 
+, 
+ {
+   "resourceType": "EpisodeOfCare",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"337692Ep1"
+   }
+   ],
+   "patient": { 
+"reference":"Patient?identifier=CEMENAV|337692"
+ },
+"status": "finished"
+} 
+, 
+ {
+   "resourceType": "EpisodeOfCare",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"33785Ep1"
+   }
+   ],
+   "patient": { 
+"reference":"Patient?identifier=CEMENAV|33785"
+ },
+"status": "finished"
+} 
+, 
+ {
+   "resourceType": "EpisodeOfCare",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"345702Ep1"
+   }
+   ],
+   "patient": { 
+"reference":"Patient?identifier=CEMENAV|345702"
+ },
+"status": "finished"
+} 
+, 
+ {
+   "resourceType": "EpisodeOfCare",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"350562Ep1"
+   }
+   ],
+   "patient": { 
+"reference":"Patient?identifier=CEMENAV|350562"
+ },
+"status": "finished"
+} 
+, 
+ {
+   "resourceType": "EpisodeOfCare",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"351028Ep1"
+   }
+   ],
+   "patient": { 
+"reference":"Patient?identifier=CEMENAV|351028"
+ },
+"status": "finished"
+} 
+, 
+ {
+   "resourceType": "EpisodeOfCare",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"352921Ep1"
+   }
+   ],
+   "patient": { 
+"reference":"Patient?identifier=CEMENAV|352921"
+ },
+"status": "finished"
+} 
+, 
+ {
+   "resourceType": "EpisodeOfCare",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"355402Ep1"
+   }
+   ],
+   "patient": { 
+"reference":"Patient?identifier=CEMENAV|355402"
+ },
+"status": "finished"
+} 
+, 
+ {
+   "resourceType": "EpisodeOfCare",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"355702Ep1"
+   }
+   ],
+   "patient": { 
+"reference":"Patient?identifier=CEMENAV|355702"
+ },
+"status": "finished"
+} 
+, 
+ {
+   "resourceType": "EpisodeOfCare",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"356166Ep1"
+   }
+   ],
+   "patient": { 
+"reference":"Patient?identifier=CEMENAV|356166"
+ },
+"status": "finished"
+} 
+, 
+ {
+   "resourceType": "EpisodeOfCare",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"356443Ep1"
+   }
+   ],
+   "patient": { 
+"reference":"Patient?identifier=CEMENAV|356443"
+ },
+"status": "finished"
+} 
+, 
+ {
+   "resourceType": "EpisodeOfCare",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"358361Ep1"
+   }
+   ],
+   "patient": { 
+"reference":"Patient?identifier=CEMENAV|358361"
+ },
+"status": "finished"
+} 
+, 
+ {
+   "resourceType": "EpisodeOfCare",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"362582Ep1"
+   }
+   ],
+   "patient": { 
+"reference":"Patient?identifier=CEMENAV|362582"
+ },
+"status": "finished"
+} 
+, 
+ {
+   "resourceType": "EpisodeOfCare",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"362701Ep1"
+   }
+   ],
+   "patient": { 
+"reference":"Patient?identifier=CEMENAV|362701"
+ },
+"status": "finished"
+} 
+, 
+ {
+   "resourceType": "EpisodeOfCare",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"362702Ep1"
+   }
+   ],
+   "patient": { 
+"reference":"Patient?identifier=CEMENAV|362702"
+ },
+"status": "finished"
+} 
+, 
+ {
+   "resourceType": "EpisodeOfCare",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"362722Ep1"
+   }
+   ],
+   "patient": { 
+"reference":"Patient?identifier=CEMENAV|362722"
+ },
+"status": "finished"
+} 
+, 
+ {
+   "resourceType": "EpisodeOfCare",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"363781Ep1"
+   }
+   ],
+   "patient": { 
+"reference":"Patient?identifier=CEMENAV|363781"
+ },
+"status": "finished"
+} 
+, 
+ {
+   "resourceType": "EpisodeOfCare",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"363783Ep1"
+   }
+   ],
+   "patient": { 
+"reference":"Patient?identifier=CEMENAV|363783"
+ },
+"status": "finished"
+} 
+, 
+ {
+   "resourceType": "EpisodeOfCare",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"364521Ep1"
+   }
+   ],
+   "patient": { 
+"reference":"Patient?identifier=CEMENAV|364521"
+ },
+"status": "finished"
+} 
+, 
+ {
+   "resourceType": "EpisodeOfCare",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"364681Ep1"
+   }
+   ],
+   "patient": { 
+"reference":"Patient?identifier=CEMENAV|364681"
+ },
+"status": "finished"
+} 
+, 
+ {
+   "resourceType": "EpisodeOfCare",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"364683Ep1"
+   }
+   ],
+   "patient": { 
+"reference":"Patient?identifier=CEMENAV|364683"
+ },
+"status": "finished"
+} 
+, 
+ {
+   "resourceType": "EpisodeOfCare",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"365142Ep1"
+   }
+   ],
+   "patient": { 
+"reference":"Patient?identifier=CEMENAV|365142"
+ },
+"status": "finished"
+} 
+, 
+ {
+   "resourceType": "EpisodeOfCare",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"365317Ep1"
+   }
+   ],
+   "patient": { 
+"reference":"Patient?identifier=CEMENAV|365317"
+ },
+"status": "finished"
+} 
+, 
+ {
+   "resourceType": "EpisodeOfCare",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"37225Ep1"
+   }
+   ],
+   "patient": { 
+"reference":"Patient?identifier=CEMENAV|37225"
+ },
+"status": "finished"
+} 
+, 
+ {
+   "resourceType": "EpisodeOfCare",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"4538Ep1"
+   }
+   ],
+   "patient": { 
+"reference":"Patient?identifier=CEMENAV|4538"
+ },
+"status": "finished"
+} 
+, 
+ {
+   "resourceType": "EpisodeOfCare",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"47668Ep1"
+   }
+   ],
+   "patient": { 
+"reference":"Patient?identifier=CEMENAV|47668"
+ },
+"status": "finished"
+} 
+, 
+ {
+   "resourceType": "EpisodeOfCare",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"602607Ep1"
+   }
+   ],
+   "patient": { 
+"reference":"Patient?identifier=CEMENAV|602607"
+ },
+"status": "finished"
+} 
+, 
+ {
+   "resourceType": "EpisodeOfCare",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"602669Ep1"
+   }
+   ],
+   "patient": { 
+"reference":"Patient?identifier=CEMENAV|602669"
+ },
+"status": "finished"
+} 
+, 
+ {
+   "resourceType": "EpisodeOfCare",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"603020Ep1"
+   }
+   ],
+   "patient": { 
+"reference":"Patient?identifier=CEMENAV|603020"
+ },
+"status": "finished"
+} 
+, 
+ {
+   "resourceType": "EpisodeOfCare",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"603082Ep1"
+   }
+   ],
+   "patient": { 
+"reference":"Patient?identifier=CEMENAV|603082"
+ },
+"status": "finished"
+} 
+, 
+ {
+   "resourceType": "EpisodeOfCare",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"604616Ep1"
+   }
+   ],
+   "patient": { 
+"reference":"Patient?identifier=CEMENAV|604616"
+ },
+"status": "finished"
+} 
+, 
+ {
+   "resourceType": "EpisodeOfCare",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"61456Ep1"
+   }
+   ],
+   "patient": { 
+"reference":"Patient?identifier=CEMENAV|61456"
+ },
+"status": "finished"
+} 
+, 
+ {
+   "resourceType": "EpisodeOfCare",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"6302Ep1"
+   }
+   ],
+   "patient": { 
+"reference":"Patient?identifier=CEMENAV|6302"
+ },
+"status": "finished"
+} 
+, 
+ {
+   "resourceType": "EpisodeOfCare",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"9272Ep1"
+   }
+   ],
+   "patient": { 
+"reference":"Patient?identifier=CEMENAV|9272"
+ },
+"status": "finished"
+} 
+] 

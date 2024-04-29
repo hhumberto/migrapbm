@@ -6,11 +6,11 @@
         "value":"10469obs1"
    }
    ],
-   "subject": { 
-      "encounter": { 
+   "subject": {        
    "reference":"Patient?identifier=CEMENAV|10469"
    },
-      "reference":"Patient?identifier=CEMENAV|10469encount1"
+   "encounter": { 
+      "reference":"Encounter?identifier=CEMENAV|10469encount1"
    },
   "valueQuantity":{
   "value":"15.4",

@@ -1,4 +1,5 @@
 FROM python:3.10.9
+LABEL maintainer="humberto@bitegra.mx"
 
 WORKDIR /azpipeline
 

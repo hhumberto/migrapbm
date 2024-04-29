@@ -1,0 +1,9240 @@
+[ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"119376encount1"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|119376"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|119376Ep1"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"UCI Adultos",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"783"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-02-25",
+"end":"2024-02-25"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|119376diag1"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|119376cas1proc1"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"13156encount1"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|13156"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|13156Ep1"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"Especiales",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"45"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-03-07",
+"end":"2024-03-07"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|13156diag1"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|13156cas1proc1"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"13156encount2"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|13156"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|13156Ep2"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"UCI Adultos",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"783"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-03-07",
+"end":"2024-03-07"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|13156diag2"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|13156cas2proc2"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"13156encount3"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|13156"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|13156Ep3"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"Terapia Intermedia",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"10100"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-03-07",
+"end":"2024-03-07"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|13156diag3"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|13156cas3proc3"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"13156encount4"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|13156"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|13156Ep4"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"UCI Adultos",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"783"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-03-07",
+"end":"2024-03-07"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|13156diag4"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|13156cas4proc4"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"13156encount5"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|13156"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|13156Ep5"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"Especiales",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"45"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-03-07",
+"end":"2024-03-07"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|13156diag5"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|13156cas5proc5"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"14034encount1"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|14034"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|14034Ep1"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":" ",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"10"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-03-29",
+"end":"2024-03-29"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|14034diag1"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|14034cas1proc1"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"14034encount2"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|14034"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|14034Ep2"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"Hospitalizaci�n Mujeres*",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"71574"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-03-12",
+"end":"2024-03-12"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|14034diag2"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|14034cas2proc2"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"14034encount3"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|14034"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|14034Ep3"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"Hospitalizaci�n Mujeres*",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"71574"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-03-12",
+"end":"2024-03-12"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|14034diag3"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|14034cas3proc3"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"14034encount4"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|14034"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|14034Ep4"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"Hospitalizaci�n Mujeres*",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"71574"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-03-12",
+"end":"2024-03-12"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|14034diag4"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|14034cas4proc4"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"14034encount5"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|14034"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|14034Ep5"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":" ",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"10"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-03-29",
+"end":"2024-03-29"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|14034diag5"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|14034cas5proc5"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"14034encount6"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|14034"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|14034Ep6"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"Hospitalizaci�n Mujeres*",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"71574"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-03-12",
+"end":"2024-03-12"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|14034diag6"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|14034cas6proc6"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"14034encount7"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|14034"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|14034Ep7"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":" ",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"10"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-03-29",
+"end":"2024-03-29"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|14034diag7"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|14034cas7proc7"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"142487encount1"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|142487"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|142487Ep1"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"UCI Adultos",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"783"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-04-07",
+"end":"2024-04-07"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|142487diag1"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|142487cas1proc1"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"144734encount1"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|144734"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|144734Ep1"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":" ",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"10"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-04-05",
+"end":"2024-04-05"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|144734diag1"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|144734cas1proc1"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"144734encount2"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|144734"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|144734Ep2"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":" ",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"10"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-03-12",
+"end":"2024-03-12"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|144734diag2"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|144734cas2proc2"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"146114encount1"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|146114"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|146114Ep1"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"Hospitalizaci�n Mujeres*",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"71574"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-03-11",
+"end":"2024-03-11"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|146114diag1"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|146114cas1proc1"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"146114encount2"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|146114"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|146114Ep2"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"Hospitalizaci�n Mujeres*",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"71574"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-03-11",
+"end":"2024-03-11"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|146114diag2"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|146114cas2proc2"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"151192encount1"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|151192"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|151192Ep1"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"Hemato-Onco",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"71572"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-04-02",
+"end":"2024-04-02"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|151192diag1"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|151192cas1proc1"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"151192encount2"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|151192"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|151192Ep2"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":" ",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"10"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-04-10",
+"end":"2024-04-10"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|151192diag2"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|151192cas2proc2"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"156273encount1"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|156273"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|156273Ep1"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"Hospitalizaci�n Mujeres*",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"71574"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-04-05",
+"end":"2024-04-05"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|156273diag1"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|156273cas1proc1"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"156273encount2"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|156273"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|156273Ep2"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":" ",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"10"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-03-25",
+"end":"2024-03-25"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|156273diag2"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|156273cas2proc2"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"156273encount3"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|156273"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|156273Ep3"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"Urgencias  Adultos",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"28302"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-04-05",
+"end":"2024-04-05"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|156273diag3"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|156273cas3proc3"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"166071encount1"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|166071"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|166071Ep1"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"UCI Adultos",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"783"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-03-14",
+"end":"2024-03-14"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|166071diag1"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|166071cas1proc1"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"171971encount1"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|171971"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|171971Ep1"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"Especiales",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"45"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-04-16",
+"end":"2024-04-16"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|171971diag1"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|171971cas1proc1"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"173687encount1"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|173687"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|173687Ep1"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"Urgencias  Adultos",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"28302"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-03-26",
+"end":"2024-03-26"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|173687diag1"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|173687cas1proc1"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"176734encount1"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|176734"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|176734Ep1"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"Urgencias  Adultos",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"28302"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-04-14",
+"end":"2024-04-14"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|176734diag1"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|176734cas1proc1"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"179872encount1"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|179872"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|179872Ep1"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"Especiales",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"45"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-04-09",
+"end":"2024-04-09"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|179872diag1"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|179872cas1proc1"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"179872encount2"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|179872"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|179872Ep2"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"Especiales",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"45"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-04-09",
+"end":"2024-04-09"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|179872diag2"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|179872cas2proc2"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"191890encount1"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|191890"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|191890Ep1"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"Hospitalizaci�n Oncolog�a",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"71511"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-03-21",
+"end":"2024-03-21"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|191890diag1"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|191890cas1proc1"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"207797encount1"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|207797"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|207797Ep1"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"Hemato-Onco",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"71572"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-04-02",
+"end":"2024-04-02"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|207797diag1"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|207797cas1proc1"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"207797encount2"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|207797"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|207797Ep2"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"Hemato-Onco",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"71572"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-04-02",
+"end":"2024-04-02"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|207797diag2"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|207797cas2proc2"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"207797encount3"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|207797"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|207797Ep3"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"Hemato-Onco",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"71572"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-04-02",
+"end":"2024-04-02"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|207797diag3"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|207797cas3proc3"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"207797encount4"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|207797"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|207797Ep4"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":" ",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"10"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-04-09",
+"end":"2024-04-09"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|207797diag4"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|207797cas4proc4"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"207797encount5"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|207797"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|207797Ep5"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":" ",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"10"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-04-09",
+"end":"2024-04-09"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|207797diag5"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|207797cas5proc5"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"207797encount6"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|207797"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|207797Ep6"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"Hemato-Onco",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"71572"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-04-02",
+"end":"2024-04-02"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|207797diag6"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|207797cas6proc6"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"225294encount1"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|225294"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|225294Ep1"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"Hospitalizaci�n Hombres",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"71555"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-03-28",
+"end":"2024-03-28"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|225294diag1"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|225294cas1proc1"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"225294encount2"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|225294"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|225294Ep2"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"UCI Adultos",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"783"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-03-28",
+"end":"2024-03-28"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|225294diag2"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|225294cas2proc2"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"225294encount3"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|225294"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|225294Ep3"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"Urgencias  Adultos",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"28302"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-03-28",
+"end":"2024-03-28"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|225294diag3"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|225294cas3proc3"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"225773encount1"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|225773"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|225773Ep1"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"Hospitalizaci�n Oncolog�a",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"71511"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-02-21",
+"end":"2024-02-21"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|225773diag1"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|225773cas1proc1"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"228529encount1"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|228529"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|228529Ep1"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"Hospitalizaci�n Hombres",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"71555"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-04-11",
+"end":"2024-04-11"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|228529diag1"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|228529cas1proc1"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"229984encount1"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|229984"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|229984Ep1"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"Hemato-Onco",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"71572"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-04-13",
+"end":"2024-04-13"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|229984diag1"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|229984cas1proc1"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"232275encount1"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|232275"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|232275Ep1"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"Urgencias  Adultos",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"28302"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-04-04",
+"end":"2024-04-04"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|232275diag1"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|232275cas1proc1"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"2362encount1"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|2362"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|2362Ep1"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":" ",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"10"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-04-11",
+"end":"2024-04-11"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|2362diag1"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|2362cas1proc1"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"25160encount1"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|25160"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|25160Ep1"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"Hospitalizaci�n Hombres",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"71555"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-04-18",
+"end":"2024-04-18"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|25160diag1"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|25160cas1proc1"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"254574encount1"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|254574"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|254574Ep1"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"Hospitalizaci�n Mujeres*",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"71574"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-04-17",
+"end":"2024-04-17"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|254574diag1"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|254574cas1proc1"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"255381encount1"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|255381"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|255381Ep1"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"Medicina interna mujeres",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"71833"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-04-02",
+"end":"2024-04-02"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|255381diag1"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|255381cas1proc1"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"255381encount2"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|255381"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|255381Ep2"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"Medicina interna mujeres",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"71833"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-04-02",
+"end":"2024-04-02"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|255381diag2"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|255381cas2proc2"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"255384encount1"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|255384"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|255384Ep1"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"Medicina interna mujeres",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"71833"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-04-16",
+"end":"2024-04-16"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|255384diag1"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|255384cas1proc1"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"26442encount1"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|26442"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|26442Ep1"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"Urgencias  Adultos",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"28302"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-04-16",
+"end":"2024-04-16"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|26442diag1"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|26442cas1proc1"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"273894encount1"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|273894"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|273894Ep1"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"Hospitalizaci�n Mujeres*",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"71574"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-04-16",
+"end":"2024-04-16"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|273894diag1"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|273894cas1proc1"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"28508encount1"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|28508"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|28508Ep1"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"Terapia Intermedia",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"10100"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-03-24",
+"end":"2024-03-24"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|28508diag1"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|28508cas1proc1"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"28508encount2"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|28508"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|28508Ep2"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"Terapia Intermedia",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"10100"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-03-24",
+"end":"2024-03-24"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|28508diag2"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|28508cas2proc2"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"287243encount1"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|287243"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|287243Ep1"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"UCI Adultos",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"783"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-04-14",
+"end":"2024-04-14"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|287243diag1"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|287243cas1proc1"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"29590encount1"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|29590"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|29590Ep1"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"Terapia Intermedia",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"10100"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-04-13",
+"end":"2024-04-13"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|29590diag1"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|29590cas1proc1"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"29590encount2"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|29590"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|29590Ep2"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"Terapia Intermedia",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"10100"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-04-13",
+"end":"2024-04-13"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|29590diag2"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|29590cas2proc2"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"29590encount3"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|29590"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|29590Ep3"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"Terapia Intermedia",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"10100"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-04-13",
+"end":"2024-04-13"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|29590diag3"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|29590cas3proc3"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"29590encount4"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|29590"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|29590Ep4"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"Especiales",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"45"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-04-13",
+"end":"2024-04-13"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|29590diag4"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|29590cas4proc4"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"29590encount5"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|29590"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|29590Ep5"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"Urgencias  Adultos",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"28302"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-04-13",
+"end":"2024-04-13"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|29590diag5"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|29590cas5proc5"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"297424encount1"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|297424"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|297424Ep1"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"UCI Pediatr�a",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"785"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-03-12",
+"end":"2024-03-12"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|297424diag1"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|297424cas1proc1"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"297424encount2"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|297424"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|297424Ep2"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"Pediatr�a",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"105"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-03-12",
+"end":"2024-03-12"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|297424diag2"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|297424cas2proc2"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"297424encount3"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|297424"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|297424Ep3"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":" ",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"10"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-03-18",
+"end":"2024-03-18"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|297424diag3"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|297424cas3proc3"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"297424encount4"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|297424"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|297424Ep4"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":" ",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"10"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-03-18",
+"end":"2024-03-18"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|297424diag4"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|297424cas4proc4"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"297424encount5"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|297424"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|297424Ep5"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":" ",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"10"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-03-18",
+"end":"2024-03-18"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|297424diag5"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|297424cas5proc5"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"299043encount1"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|299043"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|299043Ep1"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"Urgencias  Adultos",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"28302"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-04-18",
+"end":"2024-04-18"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|299043diag1"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|299043cas1proc1"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"299043encount2"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|299043"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|299043Ep2"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"Hospitalizaci�n Mujeres*",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"71574"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-04-19",
+"end":"2024-04-19"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|299043diag2"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|299043cas2proc2"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"30354encount1"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|30354"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|30354Ep1"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"Urgencias  Adultos",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"28302"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-04-07",
+"end":"2024-04-07"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|30354diag1"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|30354cas1proc1"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"305322encount1"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|305322"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|305322Ep1"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"Hospitalizaci�n Mujeres*",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"71574"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-03-19",
+"end":"2024-03-19"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|305322diag1"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|305322cas1proc1"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"308985encount1"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|308985"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|308985Ep1"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"UCI Pediatr�a",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"785"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-04-04",
+"end":"2024-04-04"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|308985diag1"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|308985cas1proc1"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"308985encount2"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|308985"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|308985Ep2"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"UCI Pediatr�a",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"785"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-04-04",
+"end":"2024-04-04"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|308985diag2"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|308985cas2proc2"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"308985encount3"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|308985"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|308985Ep3"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"UCI Pediatr�a",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"785"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-04-04",
+"end":"2024-04-04"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|308985diag3"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|308985cas3proc3"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"313707encount1"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|313707"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|313707Ep1"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"Medicina interna mujeres",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"71833"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-04-10",
+"end":"2024-04-10"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|313707diag1"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|313707cas1proc1"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"317941encount1"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|317941"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|317941Ep1"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"Hemato-Onco",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"71572"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-03-19",
+"end":"2024-03-19"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|317941diag1"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|317941cas1proc1"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"317941encount2"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|317941"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|317941Ep2"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"Hemato-Onco",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"71572"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-03-19",
+"end":"2024-03-19"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|317941diag2"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|317941cas2proc2"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"317941encount3"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|317941"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|317941Ep3"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"Hemato-Onco",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"71572"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-03-19",
+"end":"2024-03-19"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|317941diag3"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|317941cas3proc3"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"324829encount1"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|324829"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|324829Ep1"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"Hemato-Onco",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"71572"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-02-26",
+"end":"2024-02-26"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|324829diag1"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|324829cas1proc1"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"332947encount1"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|332947"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|332947Ep1"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":" ",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"10"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-03-11",
+"end":"2024-03-11"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|332947diag1"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|332947cas1proc1"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"337692encount1"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|337692"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|337692Ep1"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"Especiales",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"45"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-04-05",
+"end":"2024-04-05"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|337692diag1"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|337692cas1proc1"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"33785encount1"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|33785"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|33785Ep1"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"Urgencias Tococirugia",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"786"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-04-10",
+"end":"2024-04-10"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|33785diag1"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|33785cas1proc1"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"345702encount1"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|345702"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|345702Ep1"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"Medicina interna mujeres",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"71833"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-04-05",
+"end":"2024-04-05"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|345702diag1"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|345702cas1proc1"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"350562encount1"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|350562"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|350562Ep1"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":" ",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"10"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-03-13",
+"end":"2024-03-13"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|350562diag1"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|350562cas1proc1"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"350562encount2"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|350562"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|350562Ep2"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":" ",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"10"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-03-13",
+"end":"2024-03-13"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|350562diag2"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|350562cas2proc2"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"351028encount1"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|351028"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|351028Ep1"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":" ",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"10"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-04-19",
+"end":"2024-04-19"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|351028diag1"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|351028cas1proc1"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"352921encount1"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|352921"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|352921Ep1"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"Hospitalizaci�n Hombres",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"71555"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-04-08",
+"end":"2024-04-08"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|352921diag1"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|352921cas1proc1"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"355402encount1"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|355402"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|355402Ep1"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":" ",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"10"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-04-01",
+"end":"2024-04-01"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|355402diag1"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|355402cas1proc1"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"355702encount1"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|355702"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|355702Ep1"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":" ",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"10"
+        }
+      ]  
+   },
+"period": { 
+"start":"2023-11-15",
+"end":"2023-11-15"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|355702diag1"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|355702cas1proc1"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"356166encount1"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|356166"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|356166Ep1"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"UCI Neonatales",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"784"
+        }
+      ]  
+   },
+"period": { 
+"start":"2023-11-21",
+"end":"2023-11-21"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|356166diag1"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|356166cas1proc1"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"356166encount2"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|356166"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|356166Ep2"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"UCI Neonatales",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"784"
+        }
+      ]  
+   },
+"period": { 
+"start":"2023-11-21",
+"end":"2023-11-21"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|356166diag2"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|356166cas2proc2"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"356166encount3"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|356166"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|356166Ep3"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"UCI Neonatales",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"784"
+        }
+      ]  
+   },
+"period": { 
+"start":"2023-11-21",
+"end":"2023-11-21"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|356166diag3"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|356166cas3proc3"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"356166encount4"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|356166"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|356166Ep4"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"UCI Neonatales",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"784"
+        }
+      ]  
+   },
+"period": { 
+"start":"2023-11-21",
+"end":"2023-11-21"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|356166diag4"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|356166cas4proc4"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"356166encount5"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|356166"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|356166Ep5"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"UCI Neonatales",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"784"
+        }
+      ]  
+   },
+"period": { 
+"start":"2023-11-21",
+"end":"2023-11-21"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|356166diag5"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|356166cas5proc5"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"356443encount1"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|356443"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|356443Ep1"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"Pediatr�a",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"105"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-03-19",
+"end":"2024-03-19"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|356443diag1"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|356443cas1proc1"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"356443encount2"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|356443"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|356443Ep2"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"Pediatr�a",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"105"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-03-19",
+"end":"2024-03-19"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|356443diag2"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|356443cas2proc2"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"356443encount3"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|356443"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|356443Ep3"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"Pediatr�a",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"105"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-02-26",
+"end":"2024-02-26"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|356443diag3"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|356443cas3proc3"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"356443encount4"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|356443"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|356443Ep4"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"Pediatr�a",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"105"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-03-19",
+"end":"2024-03-19"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|356443diag4"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|356443cas4proc4"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"356443encount5"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|356443"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|356443Ep5"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"Pediatr�a",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"105"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-03-19",
+"end":"2024-03-19"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|356443diag5"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|356443cas5proc5"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"356443encount6"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|356443"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|356443Ep6"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"Pediatr�a",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"105"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-03-19",
+"end":"2024-03-19"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|356443diag6"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|356443cas6proc6"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"358361encount1"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|358361"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|358361Ep1"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"UCI Pediatr�a",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"785"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-02-01",
+"end":"2024-02-01"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|358361diag1"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|358361cas1proc1"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"362582encount1"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|362582"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|362582Ep1"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"Medicina interna mujeres",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"71833"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-02-19",
+"end":"2024-02-19"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|362582diag1"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|362582cas1proc1"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"362701encount1"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|362701"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|362701Ep1"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"Terapia Intermedia",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"10100"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-02-21",
+"end":"2024-02-21"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|362701diag1"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|362701cas1proc1"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"362702encount1"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|362702"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|362702Ep1"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"Hemato-Onco",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"71572"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-04-10",
+"end":"2024-04-10"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|362702diag1"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|362702cas1proc1"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"362722encount1"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|362722"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|362722Ep1"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"Terapia Intermedia",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"10100"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-02-22",
+"end":"2024-02-22"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|362722diag1"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|362722cas1proc1"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"362722encount2"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|362722"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|362722Ep2"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"Especiales",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"45"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-02-22",
+"end":"2024-02-22"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|362722diag2"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|362722cas2proc2"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"362722encount3"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|362722"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|362722Ep3"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"UCI Adultos",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"783"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-02-22",
+"end":"2024-02-22"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|362722diag3"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|362722cas3proc3"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"362722encount4"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|362722"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|362722Ep4"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"Terapia Intermedia",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"10100"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-02-22",
+"end":"2024-02-22"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|362722diag4"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|362722cas4proc4"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"363781encount1"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|363781"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|363781Ep1"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"UCI Neonatales",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"784"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-03-09",
+"end":"2024-03-09"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|363781diag1"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|363781cas1proc1"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"363781encount2"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|363781"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|363781Ep2"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"UCI Neonatales",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"784"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-03-09",
+"end":"2024-03-09"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|363781diag2"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|363781cas2proc2"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"363781encount3"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|363781"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|363781Ep3"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"UCI Neonatales",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"784"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-03-09",
+"end":"2024-03-09"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|363781diag3"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|363781cas3proc3"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"363781encount4"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|363781"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|363781Ep4"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"UCI Neonatales",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"784"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-03-09",
+"end":"2024-03-09"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|363781diag4"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|363781cas4proc4"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"363781encount5"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|363781"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|363781Ep5"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"UCI Neonatales",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"784"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-03-09",
+"end":"2024-03-09"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|363781diag5"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|363781cas5proc5"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"363783encount1"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|363783"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|363783Ep1"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"UCI Neonatales",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"784"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-03-09",
+"end":"2024-03-09"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|363783diag1"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|363783cas1proc1"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"363783encount2"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|363783"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|363783Ep2"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"UCI Neonatales",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"784"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-03-09",
+"end":"2024-03-09"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|363783diag2"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|363783cas2proc2"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"363783encount3"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|363783"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|363783Ep3"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"UCI Neonatales",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"784"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-03-09",
+"end":"2024-03-09"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|363783diag3"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|363783cas3proc3"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"364521encount1"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|364521"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|364521Ep1"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"Hospitalizaci�n Hombres",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"71555"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-03-25",
+"end":"2024-03-25"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|364521diag1"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|364521cas1proc1"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"364681encount1"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|364681"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|364681Ep1"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"Alojamiento Conjunto*",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"71575"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-03-27",
+"end":"2024-03-27"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|364681diag1"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|364681cas1proc1"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"364683encount1"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|364683"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|364683Ep1"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"Hospitalizaci�n Oncolog�a",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"71511"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-03-27",
+"end":"2024-03-27"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|364683diag1"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|364683cas1proc1"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"365142encount1"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|365142"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|365142Ep1"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"UCI Neonatales",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"784"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-04-10",
+"end":"2024-04-10"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|365142diag1"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|365142cas1proc1"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"365142encount2"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|365142"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|365142Ep2"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"UCI Neonatales",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"784"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-04-10",
+"end":"2024-04-10"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|365142diag2"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|365142cas2proc2"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"365317encount1"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|365317"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|365317Ep1"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"Urgencias  Adultos",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"28302"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-04-17",
+"end":"2024-04-17"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|365317diag1"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|365317cas1proc1"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"37225encount1"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|37225"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|37225Ep1"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":" ",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"10"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-04-12",
+"end":"2024-04-12"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|37225diag1"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|37225cas1proc1"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"4538encount1"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|4538"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|4538Ep1"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"Urgencias  Adultos",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"28302"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-03-31",
+"end":"2024-03-31"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|4538diag1"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|4538cas1proc1"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"47668encount1"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|47668"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|47668Ep1"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"Urgencias  Adultos",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"28302"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-04-16",
+"end":"2024-04-16"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|47668diag1"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|47668cas1proc1"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"602607encount1"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|602607"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|602607Ep1"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":" ",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"10"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-04-08",
+"end":"2024-04-08"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|602607diag1"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|602607cas1proc1"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"602669encount1"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|602669"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|602669Ep1"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"Hospitalizaci�n Hombres",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"71555"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-03-05",
+"end":"2024-03-05"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|602669diag1"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|602669cas1proc1"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"602669encount2"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|602669"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|602669Ep2"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"Hospitalizaci�n Hombres",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"71555"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-03-05",
+"end":"2024-03-05"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|602669diag2"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|602669cas2proc2"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"603020encount1"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|603020"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|603020Ep1"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"Hospitalizaci�n Hombres",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"71555"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-03-26",
+"end":"2024-03-26"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|603020diag1"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|603020cas1proc1"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"603020encount2"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|603020"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|603020Ep2"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"Hospitalizaci�n Hombres",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"71555"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-03-26",
+"end":"2024-03-26"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|603020diag2"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|603020cas2proc2"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"603082encount1"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|603082"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|603082Ep1"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"Hemato-Onco",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"71572"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-04-19",
+"end":"2024-04-19"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|603082diag1"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|603082cas1proc1"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"604616encount1"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|604616"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|604616Ep1"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":" ",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"10"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-04-18",
+"end":"2024-04-18"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|604616diag1"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|604616cas1proc1"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"61456encount1"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|61456"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|61456Ep1"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":" ",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"10"
+        }
+      ]  
+   },
+"period": { 
+"start":"2023-11-21",
+"end":"2023-11-21"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|61456diag1"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|61456cas1proc1"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"6302encount1"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|6302"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|6302Ep1"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"Medicina interna mujeres",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"71833"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-04-12",
+"end":"2024-04-12"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|6302diag1"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|6302cas1proc1"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"9272encount1"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|9272"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|9272Ep1"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"Hospitalizaci�n Mujeres*",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"71574"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-04-16",
+"end":"2024-04-16"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|9272diag1"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|9272cas1proc1"
+        }
+     }
+   ]  
+ }
+] 

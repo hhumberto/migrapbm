@@ -1,0 +1,5805 @@
+[{
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"119376cas1proc1"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|119376"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "I60.8",
+"display": "OTRAS HEMORRAGIAS SUBARACNOIDEAS"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-02-26",
+"end": "2024-02-26"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"119376cas2proc2"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|119376"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "I60.8",
+"display": "OTRAS HEMORRAGIAS SUBARACNOIDEAS"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-02-26",
+"end": "2024-02-26"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"119376cas3proc3"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|119376"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "I60.8",
+"display": "OTRAS HEMORRAGIAS SUBARACNOIDEAS"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-02-26",
+"end": "2024-02-26"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"13156cas1proc1"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|13156"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "R55",
+"display": "SÍNCOPE Y COLAPSO"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-20",
+"end": "2024-04-20"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"13156cas2proc2"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|13156"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "R55",
+"display": "SÍNCOPE Y COLAPSO"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-03-30",
+"end": "2024-03-30"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"13156cas3proc3"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|13156"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "R55",
+"display": "SÍNCOPE Y COLAPSO"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-19",
+"end": "2024-04-19"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"13156cas4proc4"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|13156"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "R55",
+"display": "SÍNCOPE Y COLAPSO"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-17",
+"end": "2024-04-17"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"13156cas5proc5"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|13156"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "R55",
+"display": "SÍNCOPE Y COLAPSO"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-03-30",
+"end": "2024-03-30"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"13156cas6proc6"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|13156"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "R55",
+"display": "SÍNCOPE Y COLAPSO"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-13",
+"end": "2024-04-13"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"13156cas7proc7"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|13156"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "R55",
+"display": "SÍNCOPE Y COLAPSO"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-18",
+"end": "2024-04-18"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"13156cas8proc8"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|13156"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "R55",
+"display": "SÍNCOPE Y COLAPSO"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-03-29",
+"end": "2024-03-29"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"13156cas9proc9"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|13156"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "R55",
+"display": "SÍNCOPE Y COLAPSO"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-03-29",
+"end": "2024-03-29"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"13156cas10proc10"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|13156"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "R55",
+"display": "SÍNCOPE Y COLAPSO"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-21",
+"end": "2024-04-21"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"14034cas1proc1"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|14034"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "M86.8",
+"display": "OTRAS OSTEOMIELITIS"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-13",
+"end": "2024-04-13"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"14034cas2proc2"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|14034"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "M86.8",
+"display": "OTRAS OSTEOMIELITIS"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-02",
+"end": "2024-04-02"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"14034cas3proc3"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|14034"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "Z54.0",
+"display": "CONVALECENCIA CONSECUTIVA A CIRUGÍA"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-15",
+"end": "2024-04-15"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"14034cas4proc4"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|14034"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "Z54.0",
+"display": "CONVALECENCIA CONSECUTIVA A CIRUGÍA"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-15",
+"end": "2024-04-15"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"14034cas5proc5"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|14034"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "M86.8",
+"display": "OTRAS OSTEOMIELITIS"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-20",
+"end": "2024-04-20"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"14034cas6proc6"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|14034"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "M86.8",
+"display": "OTRAS OSTEOMIELITIS"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-15",
+"end": "2024-04-15"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"14034cas7proc7"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|14034"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "M86.8",
+"display": "OTRAS OSTEOMIELITIS"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-15",
+"end": "2024-04-15"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"14034cas8proc8"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|14034"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "M86.8",
+"display": "OTRAS OSTEOMIELITIS"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-14",
+"end": "2024-04-14"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"14034cas9proc9"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|14034"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "Z54.0",
+"display": "CONVALECENCIA CONSECUTIVA A CIRUGÍA"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-03-31",
+"end": "2024-03-31"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"14034cas10proc10"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|14034"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "Z54.0",
+"display": "CONVALECENCIA CONSECUTIVA A CIRUGÍA"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-11",
+"end": "2024-04-11"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"14034cas11proc11"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|14034"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "Z54.0",
+"display": "CONVALECENCIA CONSECUTIVA A CIRUGÍA"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-16",
+"end": "2024-04-16"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"14034cas12proc12"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|14034"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "M86.8",
+"display": "OTRAS OSTEOMIELITIS"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-14",
+"end": "2024-04-14"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"14034cas13proc13"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|14034"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "Z54.0",
+"display": "CONVALECENCIA CONSECUTIVA A CIRUGÍA"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-03-31",
+"end": "2024-03-31"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"142487cas1proc1"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|142487"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "I44.3",
+"display": "OTROS TIPOS DE BLOQUEO AURICULOVENTRICULAR Y LOS NO ESPECIFICADOS"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-13",
+"end": "2024-04-13"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"142487cas2proc2"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|142487"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "I44.3",
+"display": "OTROS TIPOS DE BLOQUEO AURICULOVENTRICULAR Y LOS NO ESPECIFICADOS"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-14",
+"end": "2024-04-14"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"144734cas1proc1"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|144734"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "C82.9",
+"display": "LINFOMA NO HODGKIN FOLICULAR, SIN OTRA ESPECIFICACIÓN"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-05",
+"end": "2024-04-05"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"144734cas2proc2"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|144734"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "C82.9",
+"display": "LINFOMA NO HODGKIN FOLICULAR, SIN OTRA ESPECIFICACIÓN"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-03-29",
+"end": "2024-03-29"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"146114cas1proc1"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|146114"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "M00.9",
+"display": "ARTRITIS PIÓGENA, NO ESPECIFICADA"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-03-31",
+"end": "2024-03-31"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"146114cas2proc2"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|146114"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "M00.9",
+"display": "ARTRITIS PIÓGENA, NO ESPECIFICADA"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-03-31",
+"end": "2024-03-31"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"146114cas3proc3"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|146114"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "M00.9",
+"display": "ARTRITIS PIÓGENA, NO ESPECIFICADA"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-03-31",
+"end": "2024-03-31"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"146114cas4proc4"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|146114"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "M00.9",
+"display": "ARTRITIS PIÓGENA, NO ESPECIFICADA"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-11",
+"end": "2024-04-11"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"151192cas1proc1"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|151192"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "C90.0",
+"display": "MIELOMA MÚLTIPLE"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-03",
+"end": "2024-04-03"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"151192cas2proc2"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|151192"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "C90.0",
+"display": "MIELOMA MÚLTIPLE"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-04",
+"end": "2024-04-04"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"151192cas3proc3"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|151192"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "NULL",
+"display": "NULL"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-10",
+"end": "2024-04-10"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"156273cas1proc1"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|156273"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "Z54.0",
+"display": "CONVALECENCIA CONSECUTIVA A CIRUGÍA"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-03-29",
+"end": "2024-03-29"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"156273cas2proc2"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|156273"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "E11.5",
+"display": "DIABETES MELLITUS NO INSULINODEPENDIENTE, CON COMPLICACIONES CIRCULATORIAS PERIFÉRICAS"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-16",
+"end": "2024-04-16"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"156273cas3proc3"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|156273"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "E102.+",
+"display": "DIABETES MELLITUS INSULINODEPENDIENTE, CON COMPLICACIONES RENALES"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-05",
+"end": "2024-04-05"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"166071cas1proc1"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|166071"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "Z54.0",
+"display": "CONVALECENCIA CONSECUTIVA A CIRUGÍA"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-03-27",
+"end": "2024-03-27"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"171971cas1proc1"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|171971"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "C15.8",
+"display": "LESIÓN DE SITIOS CONTIGUOS DEL ESÓFAGO"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-16",
+"end": "2024-04-16"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"173687cas1proc1"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|173687"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "I08.8",
+"display": "OTRAS ENFERMEDADES DE MÚLTIPLES VÁLVULAS"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-03-27",
+"end": "2024-03-27"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"173687cas2proc2"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|173687"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "I08.8",
+"display": "OTRAS ENFERMEDADES DE MÚLTIPLES VÁLVULAS"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-03-27",
+"end": "2024-03-27"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"173687cas3proc3"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|173687"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "I08.8",
+"display": "OTRAS ENFERMEDADES DE MÚLTIPLES VÁLVULAS"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-03-28",
+"end": "2024-03-28"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"173687cas4proc4"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|173687"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "I08.8",
+"display": "OTRAS ENFERMEDADES DE MÚLTIPLES VÁLVULAS"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-03-27",
+"end": "2024-03-27"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"173687cas5proc5"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|173687"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "I08.8",
+"display": "OTRAS ENFERMEDADES DE MÚLTIPLES VÁLVULAS"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-03-27",
+"end": "2024-03-27"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"173687cas6proc6"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|173687"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "I08.8",
+"display": "OTRAS ENFERMEDADES DE MÚLTIPLES VÁLVULAS"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-03-27",
+"end": "2024-03-27"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"173687cas7proc7"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|173687"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "I08.8",
+"display": "OTRAS ENFERMEDADES DE MÚLTIPLES VÁLVULAS"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-03-27",
+"end": "2024-03-27"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"173687cas8proc8"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|173687"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "I08.8",
+"display": "OTRAS ENFERMEDADES DE MÚLTIPLES VÁLVULAS"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-03-27",
+"end": "2024-03-27"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"176734cas1proc1"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|176734"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "K92.2",
+"display": "HEMORRAGIA GASTROINTESTINAL, NO ESPECIFICADA"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-17",
+"end": "2024-04-17"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"179872cas1proc1"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|179872"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "I20.9",
+"display": "ANGINA DE PECHO, NO ESPECIFICADA"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-15",
+"end": "2024-04-15"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"179872cas2proc2"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|179872"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "I20.9",
+"display": "ANGINA DE PECHO, NO ESPECIFICADA"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-15",
+"end": "2024-04-15"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"179872cas3proc3"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|179872"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "NULL",
+"display": "NULL"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-15",
+"end": "2024-04-15"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"179872cas4proc4"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|179872"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "I20.9",
+"display": "ANGINA DE PECHO, NO ESPECIFICADA"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-15",
+"end": "2024-04-15"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"179872cas5proc5"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|179872"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "I20.9",
+"display": "ANGINA DE PECHO, NO ESPECIFICADA"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-15",
+"end": "2024-04-15"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"191890cas1proc1"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|191890"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "Z71.3",
+"display": "CONSULTA PARA INSTRUCCIÓN Y VIGILANCIA DE LA DIETA"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-03-28",
+"end": "2024-03-28"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"207797cas1proc1"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|207797"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "C92.0",
+"display": "LEUCEMIA MIELOIDE AGUDA"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-19",
+"end": "2024-04-19"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"207797cas2proc2"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|207797"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "C92.0",
+"display": "LEUCEMIA MIELOIDE AGUDA"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-17",
+"end": "2024-04-17"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"207797cas3proc3"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|207797"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "Z13.3",
+"display": "EXAMEN DE PESQUISA ESPECIAL PARA TRASTORNOS MENTALES Y DEL COMPORTAMIENTO"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-17",
+"end": "2024-04-17"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"207797cas4proc4"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|207797"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "Z13.3",
+"display": "EXAMEN DE PESQUISA ESPECIAL PARA TRASTORNOS MENTALES Y DEL COMPORTAMIENTO"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-20",
+"end": "2024-04-20"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"207797cas5proc5"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|207797"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "C92.0",
+"display": "LEUCEMIA MIELOIDE AGUDA"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-15",
+"end": "2024-04-15"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"207797cas6proc6"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|207797"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "C92.0",
+"display": "LEUCEMIA MIELOIDE AGUDA"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-06",
+"end": "2024-04-06"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"225294cas1proc1"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|225294"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "J96.0",
+"display": "INSUFICIENCIA RESPIRATORIA AGUDA"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-03-28",
+"end": "2024-03-28"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"225294cas2proc2"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|225294"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "J18.9",
+"display": "NEUMONÍA, NO ESPECIFICADA"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-18",
+"end": "2024-04-18"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"225294cas3proc3"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|225294"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "J18.9",
+"display": "NEUMONÍA, NO ESPECIFICADA"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-03-31",
+"end": "2024-03-31"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"225294cas4proc4"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|225294"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "J96.0",
+"display": "INSUFICIENCIA RESPIRATORIA AGUDA"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-03-28",
+"end": "2024-03-28"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"225294cas5proc5"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|225294"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "J96.0",
+"display": "INSUFICIENCIA RESPIRATORIA AGUDA"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-03-29",
+"end": "2024-03-29"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"225773cas1proc1"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|225773"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "N39.0",
+"display": "INFECCIÓN DE VÍAS URINARIAS, SITIO NO ESPECIFICADO"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-02-28",
+"end": "2024-02-28"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"228529cas1proc1"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|228529"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "T85.6",
+"display": "INFECCIÓN DE VÍAS URINARIAS, SITIO NO ESPECIFICADO"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-18",
+"end": "2024-04-18"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"228529cas2proc2"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|228529"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "T85.6",
+"display": "INFECCIÓN DE VÍAS URINARIAS, SITIO NO ESPECIFICADO"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-18",
+"end": "2024-04-18"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"229984cas1proc1"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|229984"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "C91.0",
+"display": "LEUCEMIA LINFOBLÁSTICA AGUDA"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-14",
+"end": "2024-04-14"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"232275cas1proc1"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|232275"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "NULL",
+"display": "NULL"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-04",
+"end": "2024-04-04"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"232275cas2proc2"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|232275"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "NULL",
+"display": "NULL"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-04",
+"end": "2024-04-04"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"2362cas1proc1"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|2362"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "K70.3",
+"display": "CIRROSIS HEPÁTICA ALCOHÓLICA"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-23",
+"end": "2024-04-23"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"2362cas2proc2"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|2362"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "K70.3",
+"display": "CIRROSIS HEPÁTICA ALCOHÓLICA"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-22",
+"end": "2024-04-22"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"25160cas1proc1"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|25160"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "S42.0",
+"display": "FRACTURA DE LA CLAVÍCULA"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-20",
+"end": "2024-04-20"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"254574cas1proc1"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|254574"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "S82.2",
+"display": "FRACTURA DE LA DIÁFISIS DE LA TIBIA"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-18",
+"end": "2024-04-18"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"255381cas1proc1"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|255381"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "I50.9",
+"display": "INSUFICIENCIA CARDÍACA, NO ESPECIFICADA"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-04",
+"end": "2024-04-04"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"255381cas2proc2"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|255381"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "I50.9",
+"display": "INSUFICIENCIA CARDÍACA, NO ESPECIFICADA"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-04",
+"end": "2024-04-04"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"255384cas1proc1"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|255384"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "I25.6",
+"display": "ISQUEMIA SILENTE DEL MIOCARDIO"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-23",
+"end": "2024-04-23"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"255384cas2proc2"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|255384"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "I25.6",
+"display": "ISQUEMIA SILENTE DEL MIOCARDIO"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-23",
+"end": "2024-04-23"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"26442cas1proc1"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|26442"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "A09",
+"display": "DIARREA Y GASTROENTERITIS DE PRESUNTO ORIGEN INFECCIOSO"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-17",
+"end": "2024-04-17"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"273894cas1proc1"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|273894"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "S70.0",
+"display": "CONTUSIÓN DE LA CADERA"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-20",
+"end": "2024-04-20"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"28508cas1proc1"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|28508"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "A48.3",
+"display": "SÍNDROME DEL CHOQUE TÓXICO"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-03",
+"end": "2024-04-03"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"28508cas2proc2"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|28508"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "A48.3",
+"display": "SÍNDROME DEL CHOQUE TÓXICO"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-02",
+"end": "2024-04-02"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"287243cas1proc1"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|287243"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "K25.0",
+"display": "ÚLCERA GÁSTRICA, AGUDA CON HEMORRAGIA"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-18",
+"end": "2024-04-18"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"29590cas1proc1"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|29590"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "K92.2",
+"display": "HEMORRAGIA GASTROINTESTINAL, NO ESPECIFICADA"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-16",
+"end": "2024-04-16"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"29590cas2proc2"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|29590"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "K92.2",
+"display": "HEMORRAGIA GASTROINTESTINAL, NO ESPECIFICADA"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-18",
+"end": "2024-04-18"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"29590cas3proc3"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|29590"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "K92.2",
+"display": "HEMORRAGIA GASTROINTESTINAL, NO ESPECIFICADA"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-14",
+"end": "2024-04-14"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"29590cas4proc4"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|29590"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "K92.2",
+"display": "HEMORRAGIA GASTROINTESTINAL, NO ESPECIFICADA"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-20",
+"end": "2024-04-20"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"29590cas5proc5"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|29590"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "K92.2",
+"display": "HEMORRAGIA GASTROINTESTINAL, NO ESPECIFICADA"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-18",
+"end": "2024-04-18"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"29590cas6proc6"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|29590"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "K92.2",
+"display": "HEMORRAGIA GASTROINTESTINAL, NO ESPECIFICADA"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-14",
+"end": "2024-04-14"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"29590cas7proc7"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|29590"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "K92.2",
+"display": "HEMORRAGIA GASTROINTESTINAL, NO ESPECIFICADA"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-20",
+"end": "2024-04-20"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"29590cas8proc8"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|29590"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "K92.2",
+"display": "HEMORRAGIA GASTROINTESTINAL, NO ESPECIFICADA"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-16",
+"end": "2024-04-16"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"29590cas9proc9"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|29590"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "K92.2",
+"display": "HEMORRAGIA GASTROINTESTINAL, NO ESPECIFICADA"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-16",
+"end": "2024-04-16"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"29590cas10proc10"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|29590"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "K92.2",
+"display": "HEMORRAGIA GASTROINTESTINAL, NO ESPECIFICADA"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-16",
+"end": "2024-04-16"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"29590cas11proc11"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|29590"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "K92.2",
+"display": "HEMORRAGIA GASTROINTESTINAL, NO ESPECIFICADA"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-16",
+"end": "2024-04-16"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"29590cas12proc12"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|29590"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "K92.2",
+"display": "HEMORRAGIA GASTROINTESTINAL, NO ESPECIFICADA"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-16",
+"end": "2024-04-16"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"29590cas13proc13"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|29590"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "K92.2",
+"display": "HEMORRAGIA GASTROINTESTINAL, NO ESPECIFICADA"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-16",
+"end": "2024-04-16"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"29590cas14proc14"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|29590"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "K92.2",
+"display": "HEMORRAGIA GASTROINTESTINAL, NO ESPECIFICADA"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-16",
+"end": "2024-04-16"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"29590cas15proc15"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|29590"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "K92.2",
+"display": "HEMORRAGIA GASTROINTESTINAL, NO ESPECIFICADA"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-16",
+"end": "2024-04-16"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"29590cas16proc16"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|29590"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "K92.2",
+"display": "HEMORRAGIA GASTROINTESTINAL, NO ESPECIFICADA"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-14",
+"end": "2024-04-14"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"29590cas17proc17"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|29590"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "K92.2",
+"display": "HEMORRAGIA GASTROINTESTINAL, NO ESPECIFICADA"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-20",
+"end": "2024-04-20"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"29590cas18proc18"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|29590"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "K92.2",
+"display": "HEMORRAGIA GASTROINTESTINAL, NO ESPECIFICADA"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-21",
+"end": "2024-04-21"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"297424cas1proc1"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|297424"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "R04.0",
+"display": "EPISTAXIS"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-03-28",
+"end": "2024-03-28"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"297424cas2proc2"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|297424"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "R04.0",
+"display": "EPISTAXIS"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-03-30",
+"end": "2024-03-30"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"297424cas3proc3"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|297424"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "R04.0",
+"display": "EPISTAXIS"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-03-30",
+"end": "2024-03-30"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"297424cas4proc4"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|297424"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "C95.9",
+"display": "LEUCEMIA, NO ESPECIFICADA"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-03-29",
+"end": "2024-03-29"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"297424cas5proc5"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|297424"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "C95.9",
+"display": "LEUCEMIA, NO ESPECIFICADA"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-03-30",
+"end": "2024-03-30"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"297424cas6proc6"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|297424"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "R04.0",
+"display": "EPISTAXIS"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-03-28",
+"end": "2024-03-28"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"297424cas7proc7"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|297424"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "C95.9",
+"display": "LEUCEMIA, NO ESPECIFICADA"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-03-28",
+"end": "2024-03-28"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"297424cas8proc8"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|297424"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "C95.9",
+"display": "LEUCEMIA, NO ESPECIFICADA"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-03-29",
+"end": "2024-03-29"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"297424cas9proc9"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|297424"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "C95.9",
+"display": "LEUCEMIA, NO ESPECIFICADA"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-03-29",
+"end": "2024-03-29"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"299043cas1proc1"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|299043"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "E12.1",
+"display": "DIABETES MELLITUS ASOCIADA CON DESNUTRICIÓN, CON CETOACIDOSIS"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-21",
+"end": "2024-04-21"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"299043cas2proc2"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|299043"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "E12.1",
+"display": "DIABETES MELLITUS ASOCIADA CON DESNUTRICIÓN, CON CETOACIDOSIS"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-19",
+"end": "2024-04-19"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"299043cas3proc3"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|299043"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "N11.1",
+"display": "PIELONEFRITIS CRÓNICA OBSTRUCTIVA"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-19",
+"end": "2024-04-19"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"299043cas4proc4"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|299043"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "E12.1",
+"display": "DIABETES MELLITUS ASOCIADA CON DESNUTRICIÓN, CON CETOACIDOSIS"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-19",
+"end": "2024-04-19"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"299043cas5proc5"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|299043"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "E12.1",
+"display": "DIABETES MELLITUS ASOCIADA CON DESNUTRICIÓN, CON CETOACIDOSIS"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-19",
+"end": "2024-04-19"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"299043cas6proc6"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|299043"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "E12.1",
+"display": "DIABETES MELLITUS ASOCIADA CON DESNUTRICIÓN, CON CETOACIDOSIS"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-19",
+"end": "2024-04-19"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"299043cas7proc7"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|299043"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "E12.1",
+"display": "DIABETES MELLITUS ASOCIADA CON DESNUTRICIÓN, CON CETOACIDOSIS"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-19",
+"end": "2024-04-19"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"30354cas1proc1"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|30354"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "R07.2",
+"display": "DOLOR PRECORDIAL"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-22",
+"end": "2024-04-22"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"30354cas2proc2"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|30354"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "R07.2",
+"display": "DOLOR PRECORDIAL"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-22",
+"end": "2024-04-22"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"305322cas1proc1"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|305322"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "C16.9",
+"display": "TUMOR MALIGNO DEL ESTÓMAGO, PARTE NO ESPECIFICADA"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-03-31",
+"end": "2024-03-31"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"308985cas1proc1"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|308985"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "R57.9",
+"display": "CHOQUE, NO ESPECIFICADO"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-09",
+"end": "2024-04-09"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"308985cas2proc2"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|308985"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "R57.9",
+"display": "CHOQUE, NO ESPECIFICADO"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-05",
+"end": "2024-04-05"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"308985cas3proc3"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|308985"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "R57.9",
+"display": "CHOQUE, NO ESPECIFICADO"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-14",
+"end": "2024-04-14"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"308985cas4proc4"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|308985"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "R57.9",
+"display": "CHOQUE, NO ESPECIFICADO"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-08",
+"end": "2024-04-08"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"308985cas5proc5"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|308985"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "R57.9",
+"display": "CHOQUE, NO ESPECIFICADO"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-11",
+"end": "2024-04-11"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"313707cas1proc1"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|313707"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "D38.1",
+"display": "TUMOR DE COMPORTAMIENTO INCIERTO O DESCONOCIDO DE LA TRÁQUEA, DE LOS BRONQUIOS Y DEL PULMÓN"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-11",
+"end": "2024-04-11"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"317941cas1proc1"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|317941"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "M05.2",
+"display": "VASCULITIS REUMATOIDE"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-03-29",
+"end": "2024-03-29"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"317941cas2proc2"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|317941"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "M05.2",
+"display": "VASCULITIS REUMATOIDE"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-03-27",
+"end": "2024-03-27"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"317941cas3proc3"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|317941"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "M05.2",
+"display": "VASCULITIS REUMATOIDE"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-01",
+"end": "2024-04-01"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"317941cas4proc4"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|317941"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "M05.2",
+"display": "VASCULITIS REUMATOIDE"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-03-28",
+"end": "2024-03-28"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"317941cas5proc5"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|317941"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "M05.2",
+"display": "VASCULITIS REUMATOIDE"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-02",
+"end": "2024-04-02"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"324829cas1proc1"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|324829"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "E63.1",
+"display": "DESEQUILIBRIO DE LOS CONSTITUYENTES EN LA DIETA"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-02-28",
+"end": "2024-02-28"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"332947cas1proc1"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|332947"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "M10.9",
+"display": "GOTA, NO ESPECIFICADA"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-03-27",
+"end": "2024-03-27"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"337692cas1proc1"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|337692"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "I50.0",
+"display": "INSUFICIENCIA CARDÍACA CONGESTIVA"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-17",
+"end": "2024-04-17"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"33785cas1proc1"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|33785"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "Z35.2",
+"display": "SUPERVISIÓN DE EMBARAZO CON OTRO RIESGO EN LA HISTORIA OBSTÉTRICA O REPRODUCTIVA"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-11",
+"end": "2024-04-11"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"345702cas1proc1"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|345702"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "K83.0",
+"display": "COLANGITIS"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-07",
+"end": "2024-04-07"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"345702cas2proc2"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|345702"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "K83.0",
+"display": "COLANGITIS"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-09",
+"end": "2024-04-09"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"350562cas1proc1"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|350562"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "C91.0",
+"display": "LEUCEMIA LINFOBLÁSTICA AGUDA"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-22",
+"end": "2024-04-22"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"350562cas2proc2"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|350562"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "C91.0",
+"display": "LEUCEMIA LINFOBLÁSTICA AGUDA"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-18",
+"end": "2024-04-18"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"350562cas3proc3"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|350562"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "C91.0",
+"display": "LEUCEMIA LINFOBLÁSTICA AGUDA"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-18",
+"end": "2024-04-18"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"350562cas4proc4"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|350562"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "C91.0",
+"display": "LEUCEMIA LINFOBLÁSTICA AGUDA"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-15",
+"end": "2024-04-15"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"351028cas1proc1"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|351028"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "C62.9",
+"display": "TUMOR MALIGNO DEL TESTÍCULO, NO ESPECIFICADO"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-20",
+"end": "2024-04-20"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"351028cas2proc2"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|351028"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "C62.9",
+"display": "TUMOR MALIGNO DEL TESTÍCULO, NO ESPECIFICADO"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-20",
+"end": "2024-04-20"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"352921cas1proc1"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|352921"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "C16.0",
+"display": "TUMOR MALIGNO DEL CARDIAS"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-11",
+"end": "2024-04-11"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"355402cas1proc1"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|355402"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "D46.9",
+"display": "SÍNDROME MIELODISPLÁSICO, SIN OTRA ESPECIFICACIÓN"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-02",
+"end": "2024-04-02"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"355402cas2proc2"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|355402"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "D46.9",
+"display": "SÍNDROME MIELODISPLÁSICO, SIN OTRA ESPECIFICACIÓN"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-02",
+"end": "2024-04-02"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"355702cas1proc1"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|355702"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "Q21.0",
+"display": "DEFECTO DEL TABIQUE VENTRICULAR"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-22",
+"end": "2024-04-22"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"355702cas2proc2"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|355702"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "Q21.0",
+"display": "DEFECTO DEL TABIQUE VENTRICULAR"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-22",
+"end": "2024-04-22"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"355702cas3proc3"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|355702"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "Q21.0",
+"display": "DEFECTO DEL TABIQUE VENTRICULAR"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-22",
+"end": "2024-04-22"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"355702cas4proc4"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|355702"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "Q21.0",
+"display": "DEFECTO DEL TABIQUE VENTRICULAR"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-22",
+"end": "2024-04-22"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"355702cas5proc5"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|355702"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "Q21.0",
+"display": "DEFECTO DEL TABIQUE VENTRICULAR"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-22",
+"end": "2024-04-22"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"356166cas1proc1"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|356166"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "P07.3",
+"display": "OTROS RECIÉN NACIDOS PRETÉRMINO"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-07",
+"end": "2024-04-07"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"356166cas2proc2"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|356166"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "P07.3",
+"display": "OTROS RECIÉN NACIDOS PRETÉRMINO"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-12",
+"end": "2024-04-12"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"356166cas3proc3"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|356166"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "P07.3",
+"display": "OTROS RECIÉN NACIDOS PRETÉRMINO"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-10",
+"end": "2024-04-10"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"356166cas4proc4"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|356166"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "P07.3",
+"display": "OTROS RECIÉN NACIDOS PRETÉRMINO"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-14",
+"end": "2024-04-14"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"356166cas5proc5"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|356166"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "P07.3",
+"display": "OTROS RECIÉN NACIDOS PRETÉRMINO"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-03-27",
+"end": "2024-03-27"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"356166cas6proc6"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|356166"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "P07.3",
+"display": "OTROS RECIÉN NACIDOS PRETÉRMINO"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-05",
+"end": "2024-04-05"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"356443cas1proc1"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|356443"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "Z71.3",
+"display": "CONSULTA PARA INSTRUCCIÓN Y VIGILANCIA DE LA DIETA"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-04",
+"end": "2024-04-04"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"356443cas2proc2"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|356443"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "Z71.3",
+"display": "CONSULTA PARA INSTRUCCIÓN Y VIGILANCIA DE LA DIETA"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-01",
+"end": "2024-04-01"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"356443cas3proc3"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|356443"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "Z71.3",
+"display": "CONSULTA PARA INSTRUCCIÓN Y VIGILANCIA DE LA DIETA"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-05",
+"end": "2024-04-05"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"356443cas4proc4"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|356443"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "Z71.3",
+"display": "CONSULTA PARA INSTRUCCIÓN Y VIGILANCIA DE LA DIETA"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-01",
+"end": "2024-04-01"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"356443cas5proc5"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|356443"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "C91.0",
+"display": "LEUCEMIA LINFOBLÁSTICA AGUDA"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-02-27",
+"end": "2024-02-27"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"356443cas6proc6"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|356443"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "Z71.3",
+"display": "CONSULTA PARA INSTRUCCIÓN Y VIGILANCIA DE LA DIETA"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-09",
+"end": "2024-04-09"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"356443cas7proc7"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|356443"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "Z71.3",
+"display": "CONSULTA PARA INSTRUCCIÓN Y VIGILANCIA DE LA DIETA"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-19",
+"end": "2024-04-19"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"356443cas8proc8"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|356443"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "Z71.3",
+"display": "CONSULTA PARA INSTRUCCIÓN Y VIGILANCIA DE LA DIETA"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-02",
+"end": "2024-04-02"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"356443cas9proc9"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|356443"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "Z71.3",
+"display": "CONSULTA PARA INSTRUCCIÓN Y VIGILANCIA DE LA DIETA"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-03-29",
+"end": "2024-03-29"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"358361cas1proc1"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|358361"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "Z93.2",
+"display": "ILEOSTOMÍA"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-02-26",
+"end": "2024-02-26"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"362582cas1proc1"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|362582"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "I21.9",
+"display": "INFARTO AGUDO DEL MIOCARDIO, SIN OTRA ESPECIFICACIÓN"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-03-29",
+"end": "2024-03-29"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"362582cas2proc2"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|362582"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "I21.9",
+"display": "INFARTO AGUDO DEL MIOCARDIO, SIN OTRA ESPECIFICACIÓN"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-03-29",
+"end": "2024-03-29"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"362701cas1proc1"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|362701"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "J98.5",
+"display": "ENFERMEDADES DEL MEDIASTINO, NO CLASIFICADAS EN OTRA PARTE"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-09",
+"end": "2024-04-09"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"362702cas1proc1"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|362702"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "C83.3",
+"display": "LINFOMA NO HODGKIN DE CÉLULAS GRANDES (DIFUSO)"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-21",
+"end": "2024-04-21"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"362722cas1proc1"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|362722"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "R10.1",
+"display": "DOLOR ABDOMINAL LOCALIZADO EN PARTE SUPERIOR"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-07",
+"end": "2024-04-07"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"362722cas2proc2"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|362722"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "R10.1",
+"display": "DOLOR ABDOMINAL LOCALIZADO EN PARTE SUPERIOR"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-04",
+"end": "2024-04-04"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"362722cas3proc3"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|362722"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "R10.1",
+"display": "DOLOR ABDOMINAL LOCALIZADO EN PARTE SUPERIOR"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-19",
+"end": "2024-04-19"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"362722cas4proc4"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|362722"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "R10.1",
+"display": "DOLOR ABDOMINAL LOCALIZADO EN PARTE SUPERIOR"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-03-28",
+"end": "2024-03-28"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"362722cas5proc5"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|362722"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "R10.1",
+"display": "DOLOR ABDOMINAL LOCALIZADO EN PARTE SUPERIOR"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-19",
+"end": "2024-04-19"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"362722cas6proc6"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|362722"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "R10.1",
+"display": "DOLOR ABDOMINAL LOCALIZADO EN PARTE SUPERIOR"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-03",
+"end": "2024-04-03"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"363781cas1proc1"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|363781"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "O60",
+"display": "PARTO PREMATURO"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-19",
+"end": "2024-04-19"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"363781cas2proc2"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|363781"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "O60",
+"display": "PARTO PREMATURO"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-21",
+"end": "2024-04-21"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"363781cas3proc3"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|363781"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "O60",
+"display": "PARTO PREMATURO"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-18",
+"end": "2024-04-18"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"363781cas4proc4"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|363781"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "O60",
+"display": "PARTO PREMATURO"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-19",
+"end": "2024-04-19"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"363781cas5proc5"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|363781"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "O60",
+"display": "PARTO PREMATURO"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-16",
+"end": "2024-04-16"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"363781cas6proc6"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|363781"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "O60",
+"display": "PARTO PREMATURO"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-03",
+"end": "2024-04-03"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"363781cas7proc7"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|363781"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "O60",
+"display": "PARTO PREMATURO"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-20",
+"end": "2024-04-20"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"363783cas1proc1"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|363783"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "O60",
+"display": "PARTO PREMATURO"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-19",
+"end": "2024-04-19"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"363783cas2proc2"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|363783"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "O60",
+"display": "PARTO PREMATURO"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-03-31",
+"end": "2024-03-31"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"363783cas3proc3"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|363783"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "O60",
+"display": "PARTO PREMATURO"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-21",
+"end": "2024-04-21"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"364521cas1proc1"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|364521"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "T90.8",
+"display": "SECUELAS DE OTROS TRAUMATISMOS ESPECIFICADOS DE LA CABEZA"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-01",
+"end": "2024-04-01"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"364681cas1proc1"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|364681"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "Z37.0",
+"display": "NACIDO VIVO, ÚNICO"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-03-28",
+"end": "2024-03-28"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"364683cas1proc1"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|364683"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "B34.2",
+"display": "INFECCIÓN DEBIDA A CORONAVIRUS, SIN OTRA ESPECIFICACIÓN"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-18",
+"end": "2024-04-18"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"364683cas2proc2"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|364683"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "B34.2",
+"display": "INFECCIÓN DEBIDA A CORONAVIRUS, SIN OTRA ESPECIFICACIÓN"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-18",
+"end": "2024-04-18"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"365142cas1proc1"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|365142"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "P36.9",
+"display": "SEPSIS BACTERIANA DEL RECIÉN NACIDO, NO ESPECIFICADA"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-12",
+"end": "2024-04-12"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"365142cas2proc2"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|365142"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "P36.9",
+"display": "SEPSIS BACTERIANA DEL RECIÉN NACIDO, NO ESPECIFICADA"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-11",
+"end": "2024-04-11"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"365142cas3proc3"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|365142"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "P36.9",
+"display": "SEPSIS BACTERIANA DEL RECIÉN NACIDO, NO ESPECIFICADA"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-14",
+"end": "2024-04-14"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"365317cas1proc1"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|365317"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "S06.5",
+"display": "HEMORRAGIA SUBDURAL TRAUMÁTICA"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-18",
+"end": "2024-04-18"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"37225cas1proc1"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|37225"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "C53.9",
+"display": "TUMOR MALIGNO DEL CUELLO DEL ÚTERO, SIN OTRA ESPECIFICACIÓN"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-18",
+"end": "2024-04-18"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"4538cas1proc1"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|4538"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "K76.6",
+"display": "HIPERTENSIÓN PORTAL"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-02",
+"end": "2024-04-02"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"47668cas1proc1"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|47668"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "K92.2",
+"display": "HEMORRAGIA GASTROINTESTINAL, NO ESPECIFICADA"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-18",
+"end": "2024-04-18"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"602607cas1proc1"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|602607"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "A40.3",
+"display": "SEPTICEMIA DEBIDA A STREPTOCOCCUS PNEUMONIAE"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-09",
+"end": "2024-04-09"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"602669cas1proc1"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|602669"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "T84.7",
+"display": "SEPTICEMIA DEBIDA A STREPTOCOCCUS PNEUMONIAE"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-20",
+"end": "2024-04-20"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"602669cas2proc2"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|602669"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "T84.7",
+"display": "SEPTICEMIA DEBIDA A STREPTOCOCCUS PNEUMONIAE"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-21",
+"end": "2024-04-21"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"602669cas3proc3"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|602669"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "T84.7",
+"display": "SEPTICEMIA DEBIDA A STREPTOCOCCUS PNEUMONIAE"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-14",
+"end": "2024-04-14"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"603020cas1proc1"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|603020"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "T84.8",
+"display": "OTRAS COMPLICACIONES DE DISPOSITIVOS PROTÉSICOS, IMPLANTES E INJERTOS ORTOPÉDICOS INTERNOS"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-14",
+"end": "2024-04-14"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"603020cas2proc2"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|603020"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "T84.8",
+"display": "OTRAS COMPLICACIONES DE DISPOSITIVOS PROTÉSICOS, IMPLANTES E INJERTOS ORTOPÉDICOS INTERNOS"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-14",
+"end": "2024-04-14"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"603020cas3proc3"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|603020"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "T84.8",
+"display": "OTRAS COMPLICACIONES DE DISPOSITIVOS PROTÉSICOS, IMPLANTES E INJERTOS ORTOPÉDICOS INTERNOS"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-05",
+"end": "2024-04-05"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"603082cas1proc1"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|603082"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "C25.0",
+"display": "TUMOR MALIGNO DE LA CABEZA DEL PÁNCREAS"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-23",
+"end": "2024-04-23"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"604616cas1proc1"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|604616"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "J86.9",
+"display": "PIOTÓRAX SIN FÍSTULA"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-21",
+"end": "2024-04-21"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"61456cas1proc1"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|61456"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "K92.2",
+"display": "HEMORRAGIA GASTROINTESTINAL, NO ESPECIFICADA"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-10",
+"end": "2024-04-10"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"61456cas2proc2"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|61456"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "K92.2",
+"display": "HEMORRAGIA GASTROINTESTINAL, NO ESPECIFICADA"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-11",
+"end": "2024-04-11"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"6302cas1proc1"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|6302"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "K52.2",
+"display": "COLITIS Y GASTROENTERITIS ALÉRGICAS Y DIETÉTICAS"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-13",
+"end": "2024-04-13"
+} 
+} 
+, 
+ {
+   "resourceType": "Procedure",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"9272cas1proc1"
+   }
+   ],
+   "status": "completed",
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|9272"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fh.ir.de/CodeSystem/dimdi/ops",
+     "code": "K56.7",
+"display": "ÍLEO, NO ESPECIFICADO"
+        }
+      ]  
+   },
+"performedPeriod": { 
+"start": "2024-04-16",
+"end": "2024-04-16"
+} 
+} 
+] 
