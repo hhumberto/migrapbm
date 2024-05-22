@@ -151,12 +151,12 @@
       "coding":[ 
       {
      "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
-     "code": "M86.8",
-"display": "OTRAS OSTEOMIELITIS"
+     "code": "Z54.0",
+"display": "CONVALECENCIA CONSECUTIVA A CIRUGÍA"
         }
       ]  
    },
-"onsetDateTime":"2024-03-29"
+"onsetDateTime":"2024-03-12"
 } 
 , 
  {
@@ -220,12 +220,12 @@
       "coding":[ 
       {
      "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
-     "code": "Z54.0",
-"display": "CONVALECENCIA CONSECUTIVA A CIRUGÍA"
+     "code": "M86.8",
+"display": "OTRAS OSTEOMIELITIS"
         }
       ]  
    },
-"onsetDateTime":"2024-03-12"
+"onsetDateTime":"2024-03-29"
 } 
 , 
  {
@@ -243,12 +243,12 @@
       "coding":[ 
       {
      "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
-     "code": "M86.8",
-"display": "OTRAS OSTEOMIELITIS"
+     "code": "Z54.0",
+"display": "CONVALECENCIA CONSECUTIVA A CIRUGÍA"
         }
       ]  
    },
-"onsetDateTime":"2024-03-29"
+"onsetDateTime":"2024-03-12"
 } 
 , 
  {
@@ -266,12 +266,12 @@
       "coding":[ 
       {
      "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
-     "code": "Z54.0",
-"display": "CONVALECENCIA CONSECUTIVA A CIRUGÍA"
+     "code": "M86.8",
+"display": "OTRAS OSTEOMIELITIS"
         }
       ]  
    },
-"onsetDateTime":"2024-03-12"
+"onsetDateTime":"2024-03-29"
 } 
 , 
  {
@@ -318,6 +318,29 @@
       ]  
    },
 "onsetDateTime":"2024-04-07"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"144090diag1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|144090"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "C92.0",
+"display": "LEUCEMIA MIELOIDE AGUDA"
+        }
+      ]  
+   },
+"onsetDateTime":"2024-04-23"
 } 
 , 
  {
@@ -473,8 +496,8 @@
       "coding":[ 
       {
      "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
-     "code": "E11.5",
-"display": "DIABETES MELLITUS NO INSULINODEPENDIENTE, CON COMPLICACIONES CIRCULATORIAS PERIFÉRICAS"
+     "code": "E102.+",
+"display": "DIABETES MELLITUS INSULINODEPENDIENTE, CON COMPLICACIONES RENALES"
         }
       ]  
    },
@@ -496,12 +519,12 @@
       "coding":[ 
       {
      "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
-     "code": "Z54.0",
-"display": "CONVALECENCIA CONSECUTIVA A CIRUGÍA"
+     "code": "E11.5",
+"display": "DIABETES MELLITUS NO INSULINODEPENDIENTE, CON COMPLICACIONES CIRCULATORIAS PERIFÉRICAS"
         }
       ]  
    },
-"onsetDateTime":"2024-03-25"
+"onsetDateTime":"2024-04-05"
 } 
 , 
  {
@@ -519,12 +542,12 @@
       "coding":[ 
       {
      "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
-     "code": "E102.+",
-"display": "DIABETES MELLITUS INSULINODEPENDIENTE, CON COMPLICACIONES RENALES"
+     "code": "Z54.0",
+"display": "CONVALECENCIA CONSECUTIVA A CIRUGÍA"
         }
       ]  
    },
-"onsetDateTime":"2024-04-05"
+"onsetDateTime":"2024-03-25"
 } 
 , 
  {
@@ -617,6 +640,29 @@
       ]  
    },
 "onsetDateTime":"2024-04-14"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"178879diag1"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|178879"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "Z13.3",
+"display": "EXAMEN DE PESQUISA ESPECIAL PARA TRASTORNOS MENTALES Y DEL COMPORTAMIENTO"
+        }
+      ]  
+   },
+"onsetDateTime":"2024-04-17"
 } 
 , 
  {
@@ -726,12 +772,12 @@
       "coding":[ 
       {
      "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
-     "code": "C92.0",
-"display": "LEUCEMIA MIELOIDE AGUDA"
+     "code": "Z13.3",
+"display": "EXAMEN DE PESQUISA ESPECIAL PARA TRASTORNOS MENTALES Y DEL COMPORTAMIENTO"
         }
       ]  
    },
-"onsetDateTime":"2024-04-02"
+"onsetDateTime":"2024-04-09"
 } 
 , 
  {
@@ -795,12 +841,12 @@
       "coding":[ 
       {
      "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
-     "code": "Z13.3",
-"display": "EXAMEN DE PESQUISA ESPECIAL PARA TRASTORNOS MENTALES Y DEL COMPORTAMIENTO"
+     "code": "C92.0",
+"display": "LEUCEMIA MIELOIDE AGUDA"
         }
       ]  
    },
-"onsetDateTime":"2024-04-09"
+"onsetDateTime":"2024-04-02"
 } 
 , 
  {
@@ -864,8 +910,8 @@
       "coding":[ 
       {
      "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
-     "code": "J18.9",
-"display": "NEUMONÍA, NO ESPECIFICADA"
+     "code": "J96.0",
+"display": "INSUFICIENCIA RESPIRATORIA AGUDA"
         }
       ]  
    },
@@ -887,8 +933,31 @@
       "coding":[ 
       {
      "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
-     "code": "J96.0",
-"display": "INSUFICIENCIA RESPIRATORIA AGUDA"
+     "code": "J18.9",
+"display": "NEUMONÍA, NO ESPECIFICADA"
+        }
+      ]  
+   },
+"onsetDateTime":"2024-03-28"
+} 
+, 
+ {
+   "resourceType": "Condition",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"225294diag4"
+   }
+   ],
+   "subject": { 
+   "reference":"Patient?identifier=CEMENAV|225294"
+   },
+      "code":{
+      "coding":[ 
+      {
+     "system": "http://fhir.de/CodeSystem/dimdi/icd-10-gm",
+     "code": "Z50.1",
+"display": "OTRAS TERAPIAS FÍSICAS"
         }
       ]  
    },

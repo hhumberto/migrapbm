@@ -93,37 +93,16 @@ def datatofhir(request):
 #####
 
 
-    # obs = open("pbmconnector/static/data/observationtest.py","r")
-    # observa = obs.read()
-    # observation = json.loads(observa)
-    # print(observation[0])
-    
-# med = open("medicationadministration.py","r")
-# medica = med.read()
-# # print(medica)
-# medicaadmin = json.loads(medica)
-# print(medicaadmin[0])
-
-# print(patient[1]['name'][0]['given'])
-# print(patient)
-# bund = bundlesdata.patient
-# print(bund1)
-#sql = "SELECT * FROM patients"
-# connected.connMariadb(sql)
-
-
-
-
-
-
 # Assign ID randomly
 # id = random.randint(100000, 160000)
 # y[0]['identifier'][0]['value'] = str(id)
 # print(str(id))           
 # url = "http://192.168.0.190:8080/fhir/Patient"
+# url = "http://192.168.0.190:8080/fhir"
+
     url5 = "http://192.168.0.190:8080/fhir/Patient/2"
     urlwithoutID = "http://192.168.0.190:8080/fhir/Patient/"
-# url = "http://192.168.0.190:8080/fhir"
+
     urlpatient = "http://192.168.0.190:8080/fhir/Patient"
     urlcondition = "http://192.168.0.190:8080/fhir/Condition"
     urlconditionup302 = "http://192.168.0.190:8080/fhir/Condition/302"
@@ -192,7 +171,7 @@ def datatofhir(request):
     #         print('Registro exitoso MedicationAdmin')
     #     else:
     #         print('Error en registro MedicationAdmin')
-
+    
 
 ## 4
     # for procs in procedure:
@@ -203,10 +182,10 @@ def datatofhir(request):
     #         print('Error en registro de Procedure')
 
 ## 5
-    print("3:", encounter[2] )
-    print("4:", encounter[3] )
-    print("5:", encounter[4] )
-    print("6:", encounter[5] )
+    # print("3:", encounter[2] )
+    # print("4:", encounter[3] )
+    # print("5:", encounter[4] )
+    # print("6:", encounter[5] )
     # for encount1 in encounter:
     #     r = requests.post(urlencounter, data=json.dumps(encount1), headers=headers)
     #     if r:
@@ -283,7 +262,7 @@ def datatofhir(request):
     
     npob, nofoundob, totalpatientsp = detectPatientIntoObservation(idpatient, idobservation)
     
-    observa = {"reporte": "Reporte de consitencia de datos","nopnotfinded": np,
+    observa = {"reporte": "Reporte de consitencia de datos", "nopnotfinded": np,
                "pnotfinded": nofinded, "idpatient": idpatient, "idconditions": idconditions,
                "notfindedreference": notfindedreference, "totalpatients": totalpatients,
                "nofindedp": nofindedp, "npp": npp, "nofindede": nofindede, "npe": npe,

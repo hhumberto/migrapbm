@@ -1,4 +1,4 @@
-[ {
+[{
    "resourceType": "Encounter",
    "status": "finished",
    "identifier":  [ 
@@ -91,10 +91,10 @@
 "serviceType": { 
    "coding":  [ 
      { 
-      "display":"Especiales",
+      "display":"Terapia Intermedia",
      "system":
 "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
-"code":"45"
+"code":"10100"
         }
       ]  
    },
@@ -231,10 +231,10 @@
 "serviceType": { 
    "coding":  [ 
      { 
-      "display":"Terapia Intermedia",
+      "display":"Especiales",
      "system":
 "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
-"code":"10100"
+"code":"45"
         }
       ]  
    },
@@ -301,10 +301,10 @@
 "serviceType": { 
    "coding":  [ 
      { 
-      "display":"UCI Adultos",
+      "display":"Especiales",
      "system":
 "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
-"code":"783"
+"code":"45"
         }
       ]  
    },
@@ -371,10 +371,10 @@
 "serviceType": { 
    "coding":  [ 
      { 
-      "display":"Especiales",
+      "display":"UCI Adultos",
      "system":
 "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
-"code":"45"
+"code":"783"
         }
       ]  
    },
@@ -441,16 +441,16 @@
 "serviceType": { 
    "coding":  [ 
      { 
-      "display":" ",
+      "display":"Hospitalización Mujeres*",
      "system":
 "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
-"code":"10"
+"code":"71574"
         }
       ]  
    },
 "period": { 
-"start":"2024-03-29",
-"end":"2024-03-29"
+"start":"2024-03-12",
+"end":"2024-03-12"
 }, 
 "location": [ 
      { 
@@ -511,7 +511,7 @@
 "serviceType": { 
    "coding":  [ 
      { 
-      "display":"Hospitalizaciï¿½n Mujeres*",
+      "display":"Hospitalización Mujeres*",
      "system":
 "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
 "code":"71574"
@@ -581,7 +581,7 @@
 "serviceType": { 
    "coding":  [ 
      { 
-      "display":"Hospitalizaciï¿½n Mujeres*",
+      "display":"Hospitalización Mujeres*",
      "system":
 "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
 "code":"71574"
@@ -651,16 +651,16 @@
 "serviceType": { 
    "coding":  [ 
      { 
-      "display":"Hospitalizaciï¿½n Mujeres*",
+      "display":" ",
      "system":
 "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
-"code":"71574"
+"code":"10"
         }
       ]  
    },
 "period": { 
-"start":"2024-03-12",
-"end":"2024-03-12"
+"start":"2024-03-29",
+"end":"2024-03-29"
 }, 
 "location": [ 
      { 
@@ -721,16 +721,16 @@
 "serviceType": { 
    "coding":  [ 
      { 
-      "display":" ",
+      "display":"Hospitalización Mujeres*",
      "system":
 "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
-"code":"10"
+"code":"71574"
         }
       ]  
    },
 "period": { 
-"start":"2024-03-29",
-"end":"2024-03-29"
+"start":"2024-03-12",
+"end":"2024-03-12"
 }, 
 "location": [ 
      { 
@@ -791,16 +791,16 @@
 "serviceType": { 
    "coding":  [ 
      { 
-      "display":"Hospitalizaciï¿½n Mujeres*",
+      "display":" ",
      "system":
 "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
-"code":"71574"
+"code":"10"
         }
       ]  
    },
 "period": { 
-"start":"2024-03-12",
-"end":"2024-03-12"
+"start":"2024-03-29",
+"end":"2024-03-29"
 }, 
 "location": [ 
      { 
@@ -984,6 +984,76 @@
    "identifier":  [ 
      { 
         "system":"CEMENAV",
+        "value":"144090encount1"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|144090"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|144090Ep1"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"Hemato-Onco",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"71572"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-04-23",
+"end":"2024-04-23"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|144090diag1"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|144090cas1proc1"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
         "value":"144734encount1"
    }
    ],
@@ -1141,7 +1211,7 @@
 "serviceType": { 
    "coding":  [ 
      { 
-      "display":"Hospitalizaciï¿½n Mujeres*",
+      "display":"Hospitalización Mujeres*",
      "system":
 "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
 "code":"71574"
@@ -1211,7 +1281,7 @@
 "serviceType": { 
    "coding":  [ 
      { 
-      "display":"Hospitalizaciï¿½n Mujeres*",
+      "display":"Hospitalización Mujeres*",
      "system":
 "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
 "code":"71574"
@@ -1421,10 +1491,10 @@
 "serviceType": { 
    "coding":  [ 
      { 
-      "display":"Hospitalizaciï¿½n Mujeres*",
+      "display":"Urgencias  Adultos",
      "system":
 "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
-"code":"71574"
+"code":"28302"
         }
       ]  
    },
@@ -1491,16 +1561,16 @@
 "serviceType": { 
    "coding":  [ 
      { 
-      "display":" ",
+      "display":"Hospitalización Mujeres*",
      "system":
 "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
-"code":"10"
+"code":"71574"
         }
       ]  
    },
 "period": { 
-"start":"2024-03-25",
-"end":"2024-03-25"
+"start":"2024-04-05",
+"end":"2024-04-05"
 }, 
 "location": [ 
      { 
@@ -1561,16 +1631,16 @@
 "serviceType": { 
    "coding":  [ 
      { 
-      "display":"Urgencias  Adultos",
+      "display":" ",
      "system":
 "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
-"code":"28302"
+"code":"10"
         }
       ]  
    },
 "period": { 
-"start":"2024-04-05",
-"end":"2024-04-05"
+"start":"2024-03-25",
+"end":"2024-03-25"
 }, 
 "location": [ 
      { 
@@ -1894,6 +1964,76 @@
    "identifier":  [ 
      { 
         "system":"CEMENAV",
+        "value":"178879encount1"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|178879"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|178879Ep1"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"Hospitalización Mujeres*",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"71574"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-04-17",
+"end":"2024-04-17"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|178879diag1"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|178879cas1proc1"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
         "value":"179872encount1"
    }
    ],
@@ -2051,7 +2191,7 @@
 "serviceType": { 
    "coding":  [ 
      { 
-      "display":"Hospitalizaciï¿½n Oncologï¿½a",
+      "display":"Hospitalización Oncología",
      "system":
 "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
 "code":"71511"
@@ -2191,16 +2331,16 @@
 "serviceType": { 
    "coding":  [ 
      { 
-      "display":"Hemato-Onco",
+      "display":" ",
      "system":
 "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
-"code":"71572"
+"code":"10"
         }
       ]  
    },
 "period": { 
-"start":"2024-04-02",
-"end":"2024-04-02"
+"start":"2024-04-09",
+"end":"2024-04-09"
 }, 
 "location": [ 
      { 
@@ -2401,16 +2541,16 @@
 "serviceType": { 
    "coding":  [ 
      { 
-      "display":" ",
+      "display":"Hemato-Onco",
      "system":
 "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
-"code":"10"
+"code":"71572"
         }
       ]  
    },
 "period": { 
-"start":"2024-04-09",
-"end":"2024-04-09"
+"start":"2024-04-02",
+"end":"2024-04-02"
 }, 
 "location": [ 
      { 
@@ -2541,7 +2681,7 @@
 "serviceType": { 
    "coding":  [ 
      { 
-      "display":"Hospitalizaciï¿½n Hombres",
+      "display":"Hospitalización Hombres",
      "system":
 "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
 "code":"71555"
@@ -2611,10 +2751,10 @@
 "serviceType": { 
    "coding":  [ 
      { 
-      "display":"UCI Adultos",
+      "display":"Urgencias  Adultos",
      "system":
 "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
-"code":"783"
+"code":"28302"
         }
       ]  
    },
@@ -2681,10 +2821,10 @@
 "serviceType": { 
    "coding":  [ 
      { 
-      "display":"Urgencias  Adultos",
+      "display":"UCI Adultos",
      "system":
 "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
-"code":"28302"
+"code":"783"
         }
       ]  
    },
@@ -2734,6 +2874,76 @@
    "identifier":  [ 
      { 
         "system":"CEMENAV",
+        "value":"225294encount4"
+   }
+   ],
+   "class": { 
+       "system":
+   "http://terminology.hl7.org/ValueSet/v3-ActEncounterCode",
+     "code": "IMP"
+   },
+"subject": { 
+"reference":"Patient?identifier=CEMENAV|225294"
+},
+"episodeOfCare": { 
+"reference":"EpisodeOfCare?identifier=CEMENAV|225294Ep4"
+   },
+"serviceType": { 
+   "coding":  [ 
+     { 
+      "display":"Hospitalización Hombres",
+     "system":
+"http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+"code":"71555"
+        }
+      ]  
+   },
+"period": { 
+"start":"2024-03-28",
+"end":"2024-03-28"
+}, 
+"location": [ 
+     { 
+   "location": { 
+      "display":"Otro departamento especializado",
+     "identifier": {
+     "system":
+  "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
+   "value":"3700"
+        }
+    }
+  }
+],  
+"diagnosis": [ 
+     { 
+  "condition": { 
+  "reference":"Condition?identifier=CEMENAV|225294diag4"
+   },
+   "use": { 
+    "coding": [ 
+     { 
+     "system":
+  "http://terminology.hl7.org/CodeSystem/diagnosis-role",
+      "code":"AD"
+       }
+    ]  
+  }
+},
+{ 
+    "condition": {
+    "reference": 
+        "Procedure?identifier=CEMENAV|225294cas4proc4"
+        }
+     }
+   ]  
+ }
+, 
+ {
+   "resourceType": "Encounter",
+   "status": "finished",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
         "value":"225773encount1"
    }
    ],
@@ -2751,7 +2961,7 @@
 "serviceType": { 
    "coding":  [ 
      { 
-      "display":"Hospitalizaciï¿½n Oncologï¿½a",
+      "display":"Hospitalización Oncología",
      "system":
 "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
 "code":"71511"
@@ -2821,7 +3031,7 @@
 "serviceType": { 
    "coding":  [ 
      { 
-      "display":"Hospitalizaciï¿½n Hombres",
+      "display":"Hospitalización Hombres",
      "system":
 "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
 "code":"71555"
@@ -3101,7 +3311,7 @@
 "serviceType": { 
    "coding":  [ 
      { 
-      "display":"Hospitalizaciï¿½n Hombres",
+      "display":"Hospitalización Hombres",
      "system":
 "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
 "code":"71555"
@@ -3171,7 +3381,7 @@
 "serviceType": { 
    "coding":  [ 
      { 
-      "display":"Hospitalizaciï¿½n Mujeres*",
+      "display":"Hospitalización Mujeres*",
      "system":
 "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
 "code":"71574"
@@ -3521,7 +3731,7 @@
 "serviceType": { 
    "coding":  [ 
      { 
-      "display":"Hospitalizaciï¿½n Mujeres*",
+      "display":"Hospitalización Mujeres*",
      "system":
 "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
 "code":"71574"
@@ -3871,10 +4081,10 @@
 "serviceType": { 
    "coding":  [ 
      { 
-      "display":"Terapia Intermedia",
+      "display":"Especiales",
      "system":
 "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
-"code":"10100"
+"code":"45"
         }
       ]  
    },
@@ -4011,10 +4221,10 @@
 "serviceType": { 
    "coding":  [ 
      { 
-      "display":"Especiales",
+      "display":"Terapia Intermedia",
      "system":
 "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
-"code":"45"
+"code":"10100"
         }
       ]  
    },
@@ -4151,7 +4361,7 @@
 "serviceType": { 
    "coding":  [ 
      { 
-      "display":"UCI Pediatrï¿½a",
+      "display":"UCI Pediatría",
      "system":
 "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
 "code":"785"
@@ -4221,7 +4431,7 @@
 "serviceType": { 
    "coding":  [ 
      { 
-      "display":"Pediatrï¿½a",
+      "display":"Pediatría",
      "system":
 "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
 "code":"105"
@@ -4571,7 +4781,7 @@
 "serviceType": { 
    "coding":  [ 
      { 
-      "display":"Hospitalizaciï¿½n Mujeres*",
+      "display":"Hospitalización Mujeres*",
      "system":
 "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
 "code":"71574"
@@ -4711,7 +4921,7 @@
 "serviceType": { 
    "coding":  [ 
      { 
-      "display":"Hospitalizaciï¿½n Mujeres*",
+      "display":"Hospitalización Mujeres*",
      "system":
 "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
 "code":"71574"
@@ -4781,7 +4991,7 @@
 "serviceType": { 
    "coding":  [ 
      { 
-      "display":"UCI Pediatrï¿½a",
+      "display":"UCI Pediatría",
      "system":
 "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
 "code":"785"
@@ -4851,7 +5061,7 @@
 "serviceType": { 
    "coding":  [ 
      { 
-      "display":"UCI Pediatrï¿½a",
+      "display":"UCI Pediatría",
      "system":
 "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
 "code":"785"
@@ -4921,7 +5131,7 @@
 "serviceType": { 
    "coding":  [ 
      { 
-      "display":"UCI Pediatrï¿½a",
+      "display":"UCI Pediatría",
      "system":
 "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
 "code":"785"
@@ -5831,7 +6041,7 @@
 "serviceType": { 
    "coding":  [ 
      { 
-      "display":"Hospitalizaciï¿½n Hombres",
+      "display":"Hospitalización Hombres",
      "system":
 "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
 "code":"71555"
@@ -6391,7 +6601,7 @@
 "serviceType": { 
    "coding":  [ 
      { 
-      "display":"Pediatrï¿½a",
+      "display":"Pediatría",
      "system":
 "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
 "code":"105"
@@ -6461,7 +6671,7 @@
 "serviceType": { 
    "coding":  [ 
      { 
-      "display":"Pediatrï¿½a",
+      "display":"Pediatría",
      "system":
 "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
 "code":"105"
@@ -6531,7 +6741,7 @@
 "serviceType": { 
    "coding":  [ 
      { 
-      "display":"Pediatrï¿½a",
+      "display":"Pediatría",
      "system":
 "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
 "code":"105"
@@ -6601,7 +6811,7 @@
 "serviceType": { 
    "coding":  [ 
      { 
-      "display":"Pediatrï¿½a",
+      "display":"Pediatría",
      "system":
 "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
 "code":"105"
@@ -6671,7 +6881,7 @@
 "serviceType": { 
    "coding":  [ 
      { 
-      "display":"Pediatrï¿½a",
+      "display":"Pediatría",
      "system":
 "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
 "code":"105"
@@ -6741,7 +6951,7 @@
 "serviceType": { 
    "coding":  [ 
      { 
-      "display":"Pediatrï¿½a",
+      "display":"Pediatría",
      "system":
 "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
 "code":"105"
@@ -6811,7 +7021,7 @@
 "serviceType": { 
    "coding":  [ 
      { 
-      "display":"UCI Pediatrï¿½a",
+      "display":"UCI Pediatría",
      "system":
 "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
 "code":"785"
@@ -7161,10 +7371,10 @@
 "serviceType": { 
    "coding":  [ 
      { 
-      "display":"Especiales",
+      "display":"UCI Adultos",
      "system":
 "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
-"code":"45"
+"code":"783"
         }
       ]  
    },
@@ -7231,10 +7441,10 @@
 "serviceType": { 
    "coding":  [ 
      { 
-      "display":"UCI Adultos",
+      "display":"Especiales",
      "system":
 "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
-"code":"783"
+"code":"45"
         }
       ]  
    },
@@ -7931,7 +8141,7 @@
 "serviceType": { 
    "coding":  [ 
      { 
-      "display":"Hospitalizaciï¿½n Hombres",
+      "display":"Hospitalización Hombres",
      "system":
 "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
 "code":"71555"
@@ -8071,7 +8281,7 @@
 "serviceType": { 
    "coding":  [ 
      { 
-      "display":"Hospitalizaciï¿½n Oncologï¿½a",
+      "display":"Hospitalización Oncología",
      "system":
 "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
 "code":"71511"
@@ -8631,7 +8841,7 @@
 "serviceType": { 
    "coding":  [ 
      { 
-      "display":"Hospitalizaciï¿½n Hombres",
+      "display":"Hospitalización Hombres",
      "system":
 "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
 "code":"71555"
@@ -8701,7 +8911,7 @@
 "serviceType": { 
    "coding":  [ 
      { 
-      "display":"Hospitalizaciï¿½n Hombres",
+      "display":"Hospitalización Hombres",
      "system":
 "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
 "code":"71555"
@@ -8771,7 +8981,7 @@
 "serviceType": { 
    "coding":  [ 
      { 
-      "display":"Hospitalizaciï¿½n Hombres",
+      "display":"Hospitalización Hombres",
      "system":
 "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
 "code":"71555"
@@ -8841,7 +9051,7 @@
 "serviceType": { 
    "coding":  [ 
      { 
-      "display":"Hospitalizaciï¿½n Hombres",
+      "display":"Hospitalización Hombres",
      "system":
 "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
 "code":"71555"
@@ -9191,7 +9401,7 @@
 "serviceType": { 
    "coding":  [ 
      { 
-      "display":"Hospitalizaciï¿½n Mujeres*",
+      "display":"Hospitalización Mujeres*",
      "system":
 "http://fhir.de/CodeSystem/dkgev/Fachabteilungsschluessel",
 "code":"71574"

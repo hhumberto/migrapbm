@@ -1221,6 +1221,27 @@
    "identifier":  [ 
      { 
         "system":"CEMENAV",
+        "value":"178879"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-178879"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "female",
+"birthDate": "1945-12-22"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
         "value":"228529"
    }
    ],
@@ -1445,6 +1466,27 @@
         ],  
 "gender": "male",
 "birthDate": "2024-04-10"
+} 
+, 
+ {
+   "resourceType": "Patient",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"144090"
+   }
+   ],
+   "name": [ 
+     { 
+      "use":"anonymous",
+      "given":[ 
+      "Paciente-144090"
+       ],
+       "family":" "
+        }
+        ],  
+"gender": "female",
+"birthDate": "1976-01-09"
 } 
 , 
  {

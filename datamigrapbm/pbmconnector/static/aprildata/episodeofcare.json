@@ -59,6 +59,20 @@
    "identifier":  [ 
      { 
         "system":"CEMENAV",
+        "value":"144090Ep1"
+   }
+   ],
+   "patient": { 
+"reference":"Patient?identifier=CEMENAV|144090"
+ },
+"status": "finished"
+} 
+, 
+ {
+   "resourceType": "EpisodeOfCare",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
         "value":"144734Ep1"
    }
    ],
@@ -162,6 +176,20 @@
    ],
    "patient": { 
 "reference":"Patient?identifier=CEMENAV|176734"
+ },
+"status": "finished"
+} 
+, 
+ {
+   "resourceType": "EpisodeOfCare",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"178879Ep1"
+   }
+   ],
+   "patient": { 
+"reference":"Patient?identifier=CEMENAV|178879"
  },
 "status": "finished"
 } 

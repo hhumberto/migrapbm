@@ -1,4 +1,4 @@
- [{
+[{
    "resourceType": "MedicationAdministration",
    "identifier":  [ 
      { 
@@ -267,7 +267,7 @@
    "identifier":  [ 
      { 
         "system":"CEMENAV",
-        "value":"14034cas1trans15486438"
+        "value":"14034cas1trans15510155"
    }
    ],
    "status": "completed",
@@ -311,7 +311,7 @@
    "identifier":  [ 
      { 
         "system":"CEMENAV",
-        "value":"14034cas2trans15505575"
+        "value":"14034cas2trans15509083"
    }
    ],
    "status": "completed",
@@ -347,7 +347,7 @@
    "value":1
 }
 },
-"effectiveDateTime":"2024-03-12"
+"effectiveDateTime":"2024-03-29"
 } 
 , 
  {
@@ -355,7 +355,7 @@
    "identifier":  [ 
      { 
         "system":"CEMENAV",
-        "value":"14034cas3trans15509768"
+        "value":"14034cas3trans15521439"
    }
    ],
    "status": "completed",
@@ -391,7 +391,7 @@
    "value":1
 }
 },
-"effectiveDateTime":"2024-03-12"
+"effectiveDateTime":"2024-03-29"
 } 
 , 
  {
@@ -399,7 +399,7 @@
    "identifier":  [ 
      { 
         "system":"CEMENAV",
-        "value":"14034cas4trans15510155"
+        "value":"14034cas4trans15489899"
    }
    ],
    "status": "completed",
@@ -435,7 +435,7 @@
    "value":1
 }
 },
-"effectiveDateTime":"2024-03-12"
+"effectiveDateTime":"2024-03-29"
 } 
 , 
  {
@@ -443,7 +443,7 @@
    "identifier":  [ 
      { 
         "system":"CEMENAV",
-        "value":"14034cas5trans15489899"
+        "value":"14034cas5trans15505575"
    }
    ],
    "status": "completed",
@@ -479,7 +479,7 @@
    "value":1
 }
 },
-"effectiveDateTime":"2024-03-29"
+"effectiveDateTime":"2024-03-12"
 } 
 , 
  {
@@ -487,7 +487,7 @@
    "identifier":  [ 
      { 
         "system":"CEMENAV",
-        "value":"14034cas6trans15509083"
+        "value":"14034cas6trans15486438"
    }
    ],
    "status": "completed",
@@ -523,7 +523,7 @@
    "value":1
 }
 },
-"effectiveDateTime":"2024-03-29"
+"effectiveDateTime":"2024-03-12"
 } 
 , 
  {
@@ -531,7 +531,7 @@
    "identifier":  [ 
      { 
         "system":"CEMENAV",
-        "value":"14034cas7trans15521439"
+        "value":"14034cas7trans15509768"
    }
    ],
    "status": "completed",
@@ -567,7 +567,7 @@
    "value":1
 }
 },
-"effectiveDateTime":"2024-03-29"
+"effectiveDateTime":"2024-03-12"
 } 
 , 
  {
@@ -619,7 +619,51 @@
    "identifier":  [ 
      { 
         "system":"CEMENAV",
-        "value":"144734cas1trans15485479"
+        "value":"144090cas1trans15526721"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|144090"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|144090encount1"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-04-23"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"144734cas1trans15496630"
    }
    ],
    "status": "completed",
@@ -655,7 +699,7 @@
    "value":1
 }
 },
-"effectiveDateTime":"2024-03-12"
+"effectiveDateTime":"2024-04-05"
 } 
 , 
  {
@@ -663,7 +707,7 @@
    "identifier":  [ 
      { 
         "system":"CEMENAV",
-        "value":"144734cas2trans15496630"
+        "value":"144734cas2trans15485479"
    }
    ],
    "status": "completed",
@@ -699,7 +743,7 @@
    "value":1
 }
 },
-"effectiveDateTime":"2024-04-05"
+"effectiveDateTime":"2024-03-12"
 } 
 , 
  {
@@ -1191,6 +1235,50 @@
    "identifier":  [ 
      { 
         "system":"CEMENAV",
+        "value":"178879cas1trans15521622"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|178879"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|178879encount1"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-04-17"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
         "value":"179872cas1trans15506684"
    }
    ],
@@ -1631,7 +1719,7 @@
    "identifier":  [ 
      { 
         "system":"CEMENAV",
-        "value":"225294cas2trans15484535"
+        "value":"225294cas2trans15526041"
    }
    ],
    "status": "completed",
@@ -1684,6 +1772,50 @@
    },
       "context":{
    "reference":"Encounter?identifier=CEMENAV|225294encount3"
+},
+"medicationCodeableConcept":{
+      "coding":[ 
+{
+     "system": "http://snomed.info/sct",
+     "code": "256395009",
+"display": "Plaquetas"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256400005",
+"display": "Plasma fresco congelado"
+ },
+{
+     "system": "http://snomed.info/sct",
+     "code": "256401009",
+"display": "Crioprecipitados"
+    }
+  ]
+ },
+"dosage":{
+"dose":{
+"unit":"{count}",
+   "system": "http://unitsofmeasure.org",
+   "value":1
+}
+},
+"effectiveDateTime":"2024-03-28"
+} 
+, 
+ {
+   "resourceType": "MedicationAdministration",
+   "identifier":  [ 
+     { 
+        "system":"CEMENAV",
+        "value":"225294cas4trans15484535"
+   }
+   ],
+   "status": "completed",
+   "subject": {
+   "reference":"Patient?identifier=CEMENAV|225294"
+   },
+      "context":{
+   "reference":"Encounter?identifier=CEMENAV|225294encount4"
 },
 "medicationCodeableConcept":{
       "coding":[ 
